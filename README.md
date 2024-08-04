@@ -29,6 +29,16 @@ I'm a passionate software developer with a love for coding and learning new tech
   </a>
 </div>
 
+<div align="center">
+  <a href="#" alt="" title="AnhTechnologies">
+    <image align="center" src="https://github-readme-stats.vercel.app/api?username=AnhTechnologies&show_icons=true&theme=radical"></image>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="#" alt="" title="AnhTechnologies">
+    <image align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhTechnologies&layout=compact&theme=radical"></image>
+  </a>
+</div>
+
 ## 📫 Connect With Me
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/anhtech21)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/AnhTechnologies)
