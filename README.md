@@ -10,7 +10,7 @@ I'm a passionate software developer with a love for coding and learning new tech
 
 ## 🛠️ My Skills
 
-- Programming Languages: ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python), ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+- Programming Languages: ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python), ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript), ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java), ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
 - Frameworks: ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react), ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
 - Tools: ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git), ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
