@@ -3,10 +3,10 @@
 I'm a passionate software developer with a love for coding and learning new technologies. 
 
 - 🔭 I’m currently working on [Website For Managing And Trading Jewelry](link-to-project)
-- 🌱 I’m currently learning [East Asia University of Technology]
-- 💬 Ask me about [Web Development]
+- 🌱 I’m currently learning [East Asia University of Technology](link-to-project)
+- 💬 Ask me about [Web Development](link-to-project)
 - 📫 How to reach me: [anhnh.works@gmail.com]
-- ⚡ Fun fact: [Besides my passion for programming, I also play soccer very well!]
+- ⚡ Fun fact: [Besides my passion for programming, I also play soccer very well!](link-to-project)
 
 ## 🛠️ My Skills 🛠️
 
