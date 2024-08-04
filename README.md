@@ -11,7 +11,7 @@ I'm a passionate software developer with a love for coding and learning new tech
 ## 🛠️ My Skills
 
 - Programming Languages: ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python), ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript), ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk), ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
-- Frameworks: ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react), ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django), ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel), ![WordPress](https://img.shields.io/badge/-WordPress-333333?style=flat&logo=wordpress)
+- Frameworks: ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react), ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js), ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django), ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel), ![WordPress](https://img.shields.io/badge/-WordPress-333333?style=flat&logo=wordpress)
 - Tools: ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git), ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
 ## 📈 GitHub Stats
