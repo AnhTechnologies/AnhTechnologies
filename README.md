@@ -19,15 +19,6 @@ I'm a passionate software developer with a love for coding and learning new tech
 - Design: ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma), ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 
 ## 🔥 GitHub Stats 🔥
-<div align="center">
-  <a href="#" alt="" title="AnhTechnologies">
-    <image align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhTechnologies&layout=compact&theme=radical"></image>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="#" alt="" title="AnhTechnologies">
-    <image align="center" src="https://github-readme-stats.vercel.app/api?username=AnhTechnologies&show_icons=true&theme=radical"></image>
-  </a>
-</div>
 
 <div align="center">
   <a href="#" alt="" title="AnhTechnologies">
@@ -40,6 +31,7 @@ I'm a passionate software developer with a love for coding and learning new tech
 </div>
 
 ## 📫 Connect With Me
+
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/anhtech21)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/AnhTechnologies)
 [![Phone](https://img.shields.io/badge/-Phone-34b7f1?style=flat&logo=phone&logoColor=white)](tel:+84779363295)
