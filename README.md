@@ -1,6 +1,6 @@
 # Hi there, I'm Nguyen Hoang Anh! 👋
 
-## 🚀 About Me
+## 🚀 About Me 🚀
 I'm a software developer with a passion for building web applications and learning new technologies.
 
 - 🔭 I’m currently working on [Website For Managing And Trading Jewelry](link-to-project)
