@@ -22,7 +22,9 @@ I'm a passionate software developer with a love for coding and learning new tech
 
 <div align="center">
     <image align="center" src="https://github-readme-stats.vercel.app/api?username=AnhTechnologies&show_icons=true&theme=tokyonight"></image>
-      &nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AnhTechnologies&&theme=tokyonight" alt="Anh-Technologies"/>
+    &nbsp;&nbsp;&nbsp;
     <image align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhTechnologies&layout=compact&theme=tokyonight"></image>
 </div>
 
