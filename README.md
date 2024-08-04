@@ -18,10 +18,10 @@ I'm a passionate software developer with a love for coding and learning new tech
 <h2>📈 GitHub Stats</h2>
 <div align="center">
   <a href="#" alt="" title="AnhTechnologies">
-    <image src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhTechnologies&layout=compact&theme=radical"></image>
+    <image align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhTechnologies&layout=compact&theme=radical"></image>
   </a>
   <a href="#" alt="" title="AnhTechnologies">
-    <image src="https://github-readme-stats.vercel.app/api?username=AnhTechnologies&show_icons=true&theme=radical"></image>
+    <image align="right" src="https://github-readme-stats.vercel.app/api?username=AnhTechnologies&show_icons=true&theme=radical"></image>
   </a>
 </div>
 <div>
