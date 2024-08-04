@@ -17,3 +17,5 @@ I'm a software developer with a passion for building web applications and learni
 - Email: anhnh.works@gmail.com
 - LinkedIn: [Hoang Anh Nguyen]()
 - Twitter: [@Hoang Anh Nguyen]()
+
+![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
