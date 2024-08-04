@@ -10,13 +10,12 @@ I'm a passionate software developer with a love for coding and learning new tech
 
 ## 🛠️ My Skills 🛠️
 
-- Programming Languages: [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-, [![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)](https://www.java.com/)
-, ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
-- Frameworks: ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react), ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js), ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel), ![WordPress](https://img.shields.io/badge/-WordPress-333333?style=flat&logo=wordpress), ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=spring-boot), ![Spring MVC](https://img.shields.io/badge/-Spring%20MVC-333333?style=flat&logo=spring)
-- Database: [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/), [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-- Tools: ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git), ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-- Design: ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma), ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
+- Programming Languages: ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) [![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)](https://www.java.com/)
+ ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php) ![Java 17](https://img.shields.io/badge/Java-17-blue?style=flat&logo=java&logoColor=white)
+- Frameworks: ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel) ![WordPress](https://img.shields.io/badge/-WordPress-333333?style=flat&logo=wordpress) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=spring-boot) ![Spring MVC](https://img.shields.io/badge/-Spring%20MVC-333333?style=flat&logo=spring) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
+- Database: [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/) [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+- Tools: ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+- Design: ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma) ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 
 ## 🔥 GitHub Stats 🔥
 <!--
