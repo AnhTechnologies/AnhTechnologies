@@ -42,6 +42,5 @@ I'm a passionate software developer with a love for coding and learning new tech
 
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/anhtech21)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/AnhTechnologies)
-[![Phone](https://img.shields.io/badge/-Phone-34b7f1?style=flat&logo=phone&logoColor=white)](tel:+84779363295)
+<!--[![Phone](https://img.shields.io/badge/-Phone-34b7f1?style=flat&logo=phone&logoColor=white)](tel:+84779363295)-->
 [![Zalo](https://img.shields.io/badge/-Zalo-0085CA?style=flat&logo=wechat&logoColor=white)](https://zalo.me/0779363295)
-
