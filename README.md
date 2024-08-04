@@ -16,7 +16,7 @@ I'm a passionate software developer with a love for coding and learning new tech
 - Design: ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma), ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 
 ## 📈 GitHub Stats
-<div align="center">
+<div align="">
   <a href="#" alt="" title="AnhTechnologies">
     <image align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhTechnologies&layout=compact&theme=radical"></image>
   </a>
