@@ -20,6 +20,7 @@ I'm a passionate software developer with a love for coding and learning new tech
   <a href="#" alt="" title="AnhTechnologies">
     <image align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhTechnologies&layout=compact&theme=radical"></image>
   </a>
+  <a></a>
   <a href="#" alt="" title="AnhTechnologies">
     <image align="center" src="https://github-readme-stats.vercel.app/api?username=AnhTechnologies&show_icons=true&theme=radical"></image>
   </a>
