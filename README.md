@@ -16,7 +16,7 @@ I'm a passionate software developer with a love for coding and learning new tech
 - Design: ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma), ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 
 <h2>📈 GitHub Stats</h2>
-<div>
+<div align="center">
   <a href="#" alt="" title="AnhTechnologies">
     <image src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhTechnologies&layout=compact&theme=radical"></image>
   </a>
@@ -25,11 +25,6 @@ I'm a passionate software developer with a love for coding and learning new tech
   </a>
 </div>
 <div>
-
-    [![Nguyen Hoang Anh GitHub stats](https://github-readme-stats.vercel.app/api?username=AnhTechnologies&show_icons=true&theme=radical)
-
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnhTechnologies&layout=compact&theme=radical)
-
 
 ## 📫 Connect with meℹ️
 
