@@ -17,11 +17,14 @@ I'm a passionate software developer with a love for coding and learning new tech
 
 <h2>📈 GitHub Stats</h2>
 
-![Nguyen Hoang Anh GitHub stats](https://github-readme-stats.vercel.app/api?username=AnhTechnologies&show_icons=true&theme=radical)
-
-## 🔍 Top Lang
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnhTechnologies&layout=compact&theme=radical)
+<div>
+  <div>
+    ![Nguyen Hoang Anh GitHub stats](https://github-readme-stats.vercel.app/api?username=AnhTechnologies&show_icons=true&theme=radical)
+  </div>
+  <div>
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnhTechnologies&layout=compact&theme=radical)
+  </div>
+</div>
 
 ## 📫 Connect with meℹ️
 
