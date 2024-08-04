@@ -21,6 +21,8 @@ I'm a passionate software developer with a love for coding and learning new tech
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnhTechnologies&layout=compact&theme=radical)
 
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=AnhTechnologies&theme=react-dark)
+
 ## 📫 Connect with me
 
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/anhtech21)
