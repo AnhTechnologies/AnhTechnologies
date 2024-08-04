@@ -17,7 +17,7 @@ I'm a passionate software developer with a love for coding and learning new tech
 
 ## 📈 GitHub Stats
 
-![Nguyen Hoang Anh GitHub stats](https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&theme=radical)
+![Nguyen Hoang Anh GitHub stats](https://github-readme-stats.vercel.app/api?username=AnhTechnologies&show_icons=true&theme=radical)
 
 ## 📫 Connect with me
 
