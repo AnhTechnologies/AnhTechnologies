@@ -38,7 +38,7 @@ I'm a passionate software developer with a love for coding and learning new tech
   </tr>
 </table>
 
-## 📫 Connect With Me
+## 📫 Connect With Me 📫
 
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/anhtech21)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/AnhTechnologies)
