@@ -21,9 +21,9 @@ I'm a passionate software developer with a love for coding and learning new tech
 ## 🔥 GitHub Stats 🔥
 
 <div align="center">
-    <image align="center" src="https://github-readme-stats.vercel.app/api?username=AnhTechnologies&show_icons=true&theme=radical"></image>
-  &nbsp;&nbsp;&nbsp;
-  <image align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhTechnologies&layout=compact&theme=radical"></image>
+    <image align="center" src="https://github-readme-stats.vercel.app/api?username=AnhTechnologies&show_icons=true&theme=tokyonight"></image>
+      &nbsp;&nbsp;&nbsp;
+    <image align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhTechnologies&layout=compact&theme=tokyonight"></image>
 </div>
 
 ## 📫 Connect With Me
