@@ -21,6 +21,8 @@ I'm a passionate software developer with a love for coding and learning new tech
 
 ## 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johndoe)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/johndoe)
-[![Personal Website](https://img.shields.io/badge/-Website-000000?style=flat&logo=About.me&logoColor=white)](https://www.johndoe.com)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/anhtech21)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/AnhTechnologies)
+[![Phone](https://img.shields.io/badge/-Phone-34b7f1?style=flat&logo=phone&logoColor=white)](tel:+84779363295)
+[![Zalo](https://img.shields.io/badge/-Zalo-0085CA?style=flat&logo=wechat&logoColor=white)](https://zalo.me/0779363295)
+
