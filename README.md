@@ -18,11 +18,11 @@ I'm a passionate software developer with a love for coding and learning new tech
 ## 📈 GitHub Stats
 <div align="center">
   <a href="#" alt="" title="AnhTechnologies">
-    <image align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhTechnologies&layout=compact&theme=radical"></image>
+    <image src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhTechnologies&layout=compact&theme=radical"></image>
   </a>
   <a></a>
   <a href="#" alt="" title="AnhTechnologies">
-    <image align="right" src="https://github-readme-stats.vercel.app/api?username=AnhTechnologies&show_icons=true&theme=radical"></image>
+    <image src="https://github-readme-stats.vercel.app/api?username=AnhTechnologies&show_icons=true&theme=radical"></image>
   </a>
 </div>
 <div>
