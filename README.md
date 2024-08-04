@@ -3,10 +3,10 @@
 I'm a passionate software developer with a love for coding and learning new technologies. 
 
 - 🔭 I’m currently working on [Website For Managing And Trading Jewelry](link-to-project)
-- 🌱 I’m currently learning [East Asia University of Technology](link-to-project)
-- 💬 Ask me about [Web Development](link-to-project)
+- 🌱 I’m currently learning East Asia University of Technology
+- 💬 Ask me about Web Development
 - 📫 How to reach me: [anhnh.works@gmail.com]
-- ⚡ Fun fact: [Besides my passion for programming, I also play soccer very well!](link-to-project)
+- ⚡ Fun fact: Besides my passion for programming, I also play soccer very well!
 
 ## 🛠️ My Skills 🛠️
 
@@ -21,13 +21,9 @@ I'm a passionate software developer with a love for coding and learning new tech
 ## 🔥 GitHub Stats 🔥
 
 <div align="center">
-  <a href="#" alt="" title="AnhTechnologies">
     <image align="center" src="https://github-readme-stats.vercel.app/api?username=AnhTechnologies&show_icons=true&theme=radical"></image>
-  </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="#" alt="" title="AnhTechnologies">
-    <image align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhTechnologies&layout=compact&theme=radical"></image>
-  </a>
+  <image align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhTechnologies&layout=compact&theme=radical"></image>
 </div>
 
 ## 📫 Connect With Me
