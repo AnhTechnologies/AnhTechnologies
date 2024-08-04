@@ -1,12 +1,12 @@
-# Hi there, I'm Nguyen Hoang Anh! 👋👋
+# Hi there, I'm Nguyen Hoang Anh! 👋
 
 I'm a passionate software developer with a love for coding and learning new technologies. 
 
-- 🔭 I’m currently working on [Project Name](link-to-project)
-- 🌱 I’m currently learning [Technology/Framework]
-- 💬 Ask me about [Topic]
+- 🔭 I’m currently working on [Website For Managing And Trading Jewelry](link-to-project)
+- 🌱 I’m currently learning [East Asia University of Technology]
+- 💬 Ask me about [Web Development]
 - 📫 How to reach me: [anhnh.works@gmail.com]
-- ⚡ Fun fact: [Interesting Fact About You]
+- ⚡ Fun fact: [Besides my passion for programming, I also play soccer very well!]
 
 ## 🛠️ My Skills 🛠️
 
