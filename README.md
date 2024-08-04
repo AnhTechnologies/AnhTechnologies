@@ -5,7 +5,7 @@ I'm a passionate software developer with a love for coding and learning new tech
 - 🔭 I’m currently working on [Project Name](link-to-project)
 - 🌱 I’m currently learning [Technology/Framework]
 - 💬 Ask me about [Topic]
-- 📫 How to reach me: [Your Email]
+- 📫 How to reach me: [anhnh.works@gmail.com]
 - ⚡ Fun fact: [Interesting Fact About You]
 
 ## 🛠️ My Skills
@@ -17,7 +17,7 @@ I'm a passionate software developer with a love for coding and learning new tech
 
 ## 📈 GitHub Stats
 
-![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&theme=radical)
+![Nguyen Hoang Anh GitHub stats](https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&theme=radical)
 
 ## 📫 Connect with me
 
