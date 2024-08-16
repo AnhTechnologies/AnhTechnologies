@@ -112,6 +112,7 @@ I'm a software developer with a passion for building web applications and learni
             <td>
                 <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge" alt="Figma Badge">
                 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=for-the-badge" alt="Adobe Photoshop Badge">
+                <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=fff&style=for-the-badge" alt="Canva Badge">
             </td>
         </tr>
     </tbody>
