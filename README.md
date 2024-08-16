@@ -160,3 +160,21 @@
     <a href="https://zalo.me/84779363295"><img src="https://img.shields.io/badge/Zalo-0068FF?logo=zalo&logoColor=fff&style=for-the-badge" alt="Zalo Badge"></a>
 </div>
 
+<!-- 
+Dưới đây là một số số thành phần trên của Vue.js badge:
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white) 
+
+1. Nhãn Vue.js:
+1.1. Biểu tượng (Logo): Biểu tượng Vue.js màu xanh lá cây đặc trưng. Đây là biểu tượng chính thức của Vue.js.
+1.2. Tên: "Vue.js" được hiển thị sau biểu tượng, dễ dàng nhận diện rằng đây là một badge liên quan đến Vue.js.
+2. Màu nền (Background Color):
+2.1. Màu: #4FC08D (một màu xanh lá cây nhạt). Màu sắc này thường được kết hợp với Vue.js, thể hiện sự tươi mới và thân thiện với lập trình viên.
+3. Màu chữ (Text Color):
+3.1. Màu: Màu trắng (white). Màu chữ trắng nổi bật trên nền xanh lá cây, giúp cho nội dung dễ đọc hơn.
+4. Kiểu (Style):
+4.1. Flat:Đặc điểm: Thiết kế phẳng, không có hiệu ứng bóng hoặc độ nổi. Đơn giản và dễ nhìn.
+4.2. Plastic: Đặc điểm: Có hiệu ứng ánh sáng và bóng mờ giống như nhựa. Tạo cảm giác ba chiều hơn so với kiểu flat.
+4.3. For-the-Badge: Đặc điểm: Thiết kế đơn giản và gọn gàng, với kích thước chữ và biểu tượng được căn chỉnh để phù hợp với kích thước của badge.
+4.4. Social: Đặc điểm: Phong cách thiết kế thường được dùng cho các nền tảng mạng xã hội, thường có hình dạng và màu sắc phù hợp với giao diện mạng xã hội.
+-->
+
