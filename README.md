@@ -4,7 +4,6 @@
     <p>
        <img src="https://upload.wikimedia.org/wikipedia/commons/0/07/Flag_of_Vietnam-Animated.gif" align="center" width="6%" height="5%">
        <img src="https://hungyen.dcs.vn/Images/codang_123.gif" align="center" width="8%" height="5%">
-       <img src="https://www.xaydungdang.org.vn/skins/default/images/logo.gif" align="center" width="8%" height="5%">
     </p>
 </div> 
 
