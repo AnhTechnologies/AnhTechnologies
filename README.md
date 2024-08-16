@@ -72,6 +72,7 @@
                 <img src="https://img.shields.io/badge/angular-%23DD0031.svg?logo=angular&logoColor=white&style=for-the-badge">
                 <img src="https://img.shields.io/badge/Chart.js-FF6384?logo=chartdotjs&logoColor=fff&style=for-the-badge" alt="Chart.js Badge">
                 <img src="https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=for-the-badge" alt="Express Badge">
+                <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=fff&style=for-the-badge" alt="WordPress Badge">
                 <img src="https://img.shields.io/badge/gulp-CF4647?logo=gulp&logoColor=fff&style=for-the-badge" alt="gulp Badge">
                 <img src="https://img.shields.io/badge/Pug-FFF?logo=pug&logoColor=A86454&style=for-the-badge" alt="Pug Badge">
                 <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff&style=for-the-badge" alt="jQuery Badge">
