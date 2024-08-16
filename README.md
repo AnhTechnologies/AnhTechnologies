@@ -144,7 +144,7 @@ I'm a software developer with a passion for building web applications and learni
     <a href=">
         <img src="https://img.shields.io/badge/Zalo-0068FF?logo=zalo&logoColor=fff&style=for-the-badge" alt="Zalo Badge">
     </a>
-    <a href=""><img src="https://img.shields.io/badge/Facebook-0866FF?logo=facebook&logoColor=fff&style=for-the-badge" alt="Facebook Badge"></a>
+    <a href="https://www.facebook.com/anhtech21"><img src="https://img.shields.io/badge/Facebook-0866FF?logo=facebook&logoColor=fff&style=for-the-badge" alt="Facebook Badge"></a>
     <a href=""><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge" alt="LinkedIn Badge"></a>
     <a href=""><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge" alt="Gmail Badge"></a>
     <a href=""><img src="https://img.shields.io/badge/Zalo-0068FF?logo=zalo&logoColor=fff&style=for-the-badge" alt="Zalo Badge"></a>
