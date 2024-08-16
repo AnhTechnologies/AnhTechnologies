@@ -12,12 +12,31 @@
 <!------------------------------------------------------------------------------------------->
 <!--## 🚀 About Me 🚀-->
 <h2 align="center">🚀 About Me 🚀</h2>
-I'm a software developer with a passion for building web applications and learning new technologies.
-
-- 🔭 I’m currently working on [Website For Managing And Trading Jewelry](link-to-project)
-- 🌱 I used to study at: East Asia University of Technology
-- 💬 Ask me about: Web Development
-- 📫 How to reach me: anhnh.works@gmail.com
+<div>
+    <table>
+        <p>I'm a software developer with a passion for building web applications and learning new technologies.</p>
+        <tr>
+            <td>🔭 I’m currently working on</td>
+            <td>:</td>
+            <td>Website For Managing And Trading Jewelry</td>
+        </tr>
+        <tr>
+            <td>🌱 I used to study at</td>
+            <td>:</td>
+            <td>East Asia University of Technology</td>
+        </tr>
+        <tr>
+            <td>💬 Ask me about</td>
+            <td>:</td>
+            <td>Web Development</td>
+        </tr>
+        <tr>
+            <td>📫 How to reach me</td>
+            <td>:</td>
+            <td>anhnh.works@gmail.com</td>
+        </tr>
+    </table>
+</div>
 
 <!------------------------------------------------------------------------------------------->
 <!--## 🛠️ My Skills 🛠️-->
@@ -113,25 +132,6 @@ I'm a software developer with a passion for building web applications and learni
                 <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge" alt="Figma Badge">
                 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=for-the-badge" alt="Adobe Photoshop Badge">
                 <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=fff&style=for-the-badge" alt="Canva Badge">
-            </td>
-        </tr>
-    </tbody>
-</table>
-
-<table>
-    <tbody>
-        <tr>
-            <td align="center">Programming Languages</td>
-            <td align="center">
-                <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge" alt="HTML5 Badge">
-                <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge" alt="CSS3 Badge">
-                <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" alt="JavaScript Badge">
-                <img src="https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=white&style=for-the-badge" alt="Java Badge">
-                <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=for-the-badge" alt="PHP Badge">
-                <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge" alt="Python Badge">
-                <img src="https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=for-the-badge" alt="Markdown Badge">
-                <img src="https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=fff&style=for-the-badge" alt="Swift Badge">
-                <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge" alt="TypeScript Badge">
             </td>
         </tr>
     </tbody>
