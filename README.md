@@ -12,7 +12,7 @@
 <!------------------------------------------------------------------------------------------->
 <!--## 🚀 About Me 🚀-->
 <h2 align="center">🚀 About Me 🚀</h2>
-<div>
+<div align="center">
     <table>
         <p>I'm a software developer with a passion for building web applications and learning new technologies.</p>
         <tr>
