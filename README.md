@@ -27,10 +27,10 @@ I'm a software developer with a passion for building web applications and learni
     <tbody>
         <!-- Programming Languages -->
         <tr>
- 		    <td align="center"><h3>Programming Languages</h3></td>
+ 		    <td align="center">Programming Languages</td>
  	    </tr>
         <tr>
-            <td>
+            <td align="center">
                 <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge" alt="HTML5 Badge">
                 <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge" alt="CSS3 Badge">
                 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" alt="JavaScript Badge">
@@ -43,10 +43,10 @@ I'm a software developer with a passion for building web applications and learni
             </td>
         </tr>
         <tr>
- 		    <td align="center"><h3>Frameworks & Libraries</h3></td>
+ 		    <td align="center">Frameworks & Libraries</td>
  	    </tr>
         <tr>
-            <td>
+            <td align="center">
                 <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=for-the-badge" alt="Bootstrap Badge">
                 <img src="https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff&style=for-the-badge" alt="Sass Badge">
                 <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge" alt="Tailwind CSS Badge">
@@ -85,10 +85,10 @@ I'm a software developer with a passion for building web applications and learni
             </td>
         </tr>
         <tr>
- 		    <td align="center"><h3>Database</h3></td>
+ 		    <td align="center">Database</td>
  	    </tr>
         <tr>
-            <td>
+            <td align="center">
                 <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge" alt="MySQL Badge">
                 <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge" alt="MongoDB Badge">
                 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge" alt="PostgreSQL Badge">
@@ -97,19 +97,19 @@ I'm a software developer with a passion for building web applications and learni
             </td>
         </tr>
         <tr>
- 		    <td align="center"><h3>Tools</h3></td>
+ 		    <td align="center">Tools</td>
  	    </tr>
         <tr>
-            <td>
+            <td align="center">
                 <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge" alt="Git Badge">
                 <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge" alt="Docker Badge">
             </td>
         </tr>
         <tr>
- 		    <td align="center"><h3>Design</h3></td>
+ 		    <td align="center">Design</td>
  	    </tr>
         <tr>
-            <td>
+            <td align="center">
                 <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge" alt="Figma Badge">
                 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=for-the-badge" alt="Adobe Photoshop Badge">
                 <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=fff&style=for-the-badge" alt="Canva Badge">
