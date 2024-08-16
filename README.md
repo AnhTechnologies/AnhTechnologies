@@ -136,11 +136,12 @@
 <h3 align="center">🔥 GitHub Stats 🔥</h3>
 <table style="width:100%;">
           <tr>
-              <td>
-                  <image align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhTechnologies&layout=compact&theme=tokyonight"alt="Anh-Technologies"></image>
-                  <image align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=AnhTechnologies&show_icons=true&theme=tokyonight" alt="Anh-Technologies"></image>
+              <td width="50%" align="center">
+                  <image align="center" width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhTechnologies&layout=compact&theme=tokyonight"alt="Anh-Technologies"></image>
+                  <br>
+                  <image align="center" width="80%" height="80%" src="https://github-readme-stats.vercel.app/api?username=AnhTechnologies&show_icons=true&theme=tokyonight" alt="Anh-Technologies"></image>
               </td>
-              <td>
+              <td width="50%">
                   <image src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="Anh-Technologies" width="100%"></image>
               </td>
           </tr>
