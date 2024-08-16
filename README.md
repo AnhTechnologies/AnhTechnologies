@@ -1,6 +1,15 @@
 <!--# Hi there, I'm Nguyen Hoang Anh! 👋 ![Vietnam](https://img.shields.io/badge/-Vietnam-DA251D?style=flat&logo=vietnam&logoColor=white)-->
-<h1 align="center">Hi there, I'm Nguyen Hoang Anh! 👋</h1>
+<!------------------------------------------------------------------------------------------->
+<div align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/1200px-Flag_of_Vietnam.svg.png" align="center" width="10%" height="6%">
+</div>
 
+<!------------------------------------------------------------------------------------------->
+<div>
+   <h1 align="center">Hi there, I'm Nguyen Hoang Anh!</h1> 
+</div>
+
+<!------------------------------------------------------------------------------------------->
 <!--## 🚀 About Me 🚀-->
 <h2 align="center">🚀 About Me 🚀</h2>
 I'm a software developer with a passion for building web applications and learning new technologies.
@@ -10,6 +19,7 @@ I'm a software developer with a passion for building web applications and learni
 - 💬 Ask me about: Web Development
 - 📫 How to reach me: anhnh.works@gmail.com
 
+<!------------------------------------------------------------------------------------------->
 <!--## 🛠️ My Skills 🛠️-->
 <h2 align="center">🛠️ My Skills 🛠️</h2>
 
@@ -19,17 +29,10 @@ I'm a software developer with a passion for building web applications and learni
 - Tools: ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 - Design: ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
 
+<!------------------------------------------------------------------------------------------->
 <!--## 🔥 GitHub Stats 🔥-->
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <br>
-<!--
-<div align="center">
-    <image align="center" src="https://github-readme-stats.vercel.app/api?username=AnhTechnologies&show_icons=true&theme=tokyonight" alt="Anh-Technologies"></image>
-    &nbsp;&nbsp;&nbsp;
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AnhTechnologies&&theme=tokyonight" alt="Anh-Technologies"/>
-    &nbsp;&nbsp;&nbsp;
-    <image align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhTechnologies&layout=compact&theme=tokyonight"alt="Anh-Technologies"></image>
-</div> -->
 
 <table style="width:100%;">
   <tr>
@@ -43,6 +46,7 @@ I'm a software developer with a passion for building web applications and learni
   </tr>
 </table>
 
+<!------------------------------------------------------------------------------------------->
 <!--## 📫 Connect With Me 📫-->
 <h2 align="center">📫 Connect With Me 📫</h2>
 <br>
