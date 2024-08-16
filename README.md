@@ -24,7 +24,7 @@
             <p>💬 Ask me about: Web Development</p>
             <p>📫 How to reach me: <a href="mailto:anhnh.works@gmail.com">anhnh.works@gmail.com</a></p>
         </td>
-        <td rowspan="4" width="25%">
+        <td width="25%">
             <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTR1cWg1NWExdXp0am50N2U1a2VwNzdta2puaTJvdnMxcHBlaWE2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp">
         </td>
     </tr>
