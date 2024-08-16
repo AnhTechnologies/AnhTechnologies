@@ -2,7 +2,7 @@
 <!------------------------------------------------------------------------------------------->
 <div align="center">
     <p>
-       <img src="https://upload.wikimedia.org/wikipedia/commons/0/07/Flag_of_Vietnam-Animated.gif" align="center" width="6%" height="5%">
+       <img src="https://cdn.pixabay.com/animation/2022/09/18/18/39/18-39-26-615_512.gif" align="center" width="6%" height="5%">
        <img src="https://hungyen.dcs.vn/Images/codang_123.gif" align="center" width="8%" height="5%">
     </p>
 </div> 
