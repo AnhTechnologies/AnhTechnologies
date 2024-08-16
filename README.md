@@ -27,7 +27,7 @@ I'm a software developer with a passion for building web applications and learni
     <tbody>
         <!-- Programming Languages -->
         <tr>
- 		    <td align="center">Programming Languages</td>
+ 		    <td align="center"><h3>Programming Languages</h3></td>
  	    </tr>
         <tr>
             <td>
@@ -43,7 +43,7 @@ I'm a software developer with a passion for building web applications and learni
             </td>
         </tr>
         <tr>
- 		    <td align="center">Frameworks & Libraries</td>
+ 		    <td align="center"><h3>Frameworks & Libraries</h3></td>
  	    </tr>
         <tr>
             <td>
@@ -85,7 +85,7 @@ I'm a software developer with a passion for building web applications and learni
             </td>
         </tr>
         <tr>
- 		    <td align="center">Database</td>
+ 		    <td align="center"><h3>Database</h3></td>
  	    </tr>
         <tr>
             <td>
@@ -97,7 +97,7 @@ I'm a software developer with a passion for building web applications and learni
             </td>
         </tr>
         <tr>
- 		    <td align="center">Tools</td>
+ 		    <td align="center"><h3>Tools</h3></td>
  	    </tr>
         <tr>
             <td>
@@ -106,7 +106,7 @@ I'm a software developer with a passion for building web applications and learni
             </td>
         </tr>
         <tr>
- 		    <td align="center">Design</td>
+ 		    <td align="center"><h3>Design</h3></td>
  	    </tr>
         <tr>
             <td>
