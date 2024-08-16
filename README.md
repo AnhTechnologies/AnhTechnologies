@@ -131,7 +131,6 @@
                     <img width="48" height="48" src="https://img.icons8.com/color/48/thymeleaf.png" alt="thymeleaf"/>
                     <img width="48" height="48" src="https://img.icons8.com/color/48/spring-logo.png" alt="spring-logo"/>
                     <img width="48" height="48" src="https://img.icons8.com/color/48/webpack.png" alt="webpack"/>
-                    
                 </td>
             </tr>
             <tr>
