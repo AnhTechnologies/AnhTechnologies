@@ -122,18 +122,16 @@ I'm a software developer with a passion for building web applications and learni
 <!------------------------------------------------------------------------------------------->
 <!--## 🔥 GitHub Stats 🔥-->
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
-<br>
-
 <table style="width:100%;">
-  <tr>
-      <td>
-          <image align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhTechnologies&layout=compact&theme=tokyonight"alt="Anh-Technologies"></image>
-          <image align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=AnhTechnologies&show_icons=true&theme=tokyonight" alt="Anh-Technologies"></image>
-      </td>
-      <td>
-          <image src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="Anh-Technologies" width="100%"></image>
-      </td>
-  </tr>
+      <tr>
+          <td>
+              <image align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhTechnologies&layout=compact&theme=tokyonight"alt="Anh-Technologies"></image>
+              <image align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=AnhTechnologies&show_icons=true&theme=tokyonight" alt="Anh-Technologies"></image>
+          </td>
+          <td>
+              <image src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="Anh-Technologies" width="100%"></image>
+          </td>
+      </tr>
 </table>
 
 <!------------------------------------------------------------------------------------------->
