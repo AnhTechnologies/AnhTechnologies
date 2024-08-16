@@ -181,31 +181,28 @@ Dưới đây là một số số thành phần trên của Vue.js badge:
 4.4. Social: Đặc điểm: Phong cách thiết kế thường được dùng cho các nền tảng mạng xã hội, thường có hình dạng và màu sắc phù hợp với giao diện mạng xã hội.
 -->
 
-# Hi there 👋, I'm [Your Name]!
+# Hi there, I'm John Doe! 👋
 
-## About Me
-I'm a passionate software developer with experience in building web applications using various technologies.
+I'm a passionate software developer with a love for coding and learning new technologies. 
 
-## 🔧 Technologies & Tools
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+- 🔭 I’m currently working on [Project Name](link-to-project)
+- 🌱 I’m currently learning [Technology/Framework]
+- 💬 Ask me about [Topic]
+- 📫 How to reach me: [Your Email]
+- ⚡ Fun fact: [Interesting Fact About You]
 
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
-![trophy](https://github-profile-trophy.vercel.app/?username=your-username)
+## 🛠️ My Skills
 
-## 🏆 Achievements
-- Built an e-commerce platform with Laravel.
-- Developed a chat application with real-time updates.
+- Programming Languages: ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python), ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+- Frameworks: ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react), ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
+- Tools: ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git), ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
-## 📫 Contact Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-linkedin/)
-[![Twitter](https://img.shields.io/badge/-Twitter-333333?style=flat&logo=twitter)](https://twitter.com/your-twitter/)
+## 📈 GitHub Stats
 
-> "Strive not to be a success, but rather to be of value." - Albert Einstein
+![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&theme=radical)
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username)
+## 📫 Connect with me
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johndoe)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/johndoe)
+[![Personal Website](https://img.shields.io/badge/-Website-000000?style=flat&logo=About.me&logoColor=white)](https://www.johndoe.com)
