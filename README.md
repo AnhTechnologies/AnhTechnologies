@@ -4,7 +4,7 @@
     <p>
        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/1200px-Flag_of_Vietnam.svg.png" align="center" width="10%" height="6%"> 
     </p>
-</div>
+</div> 
 
 <!------------------------------------------------------------------------------------------->
 <div>
@@ -28,17 +28,6 @@
             <img width="100%" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTR1cWg1NWExdXp0am50N2U1a2VwNzdta2puaTJvdnMxcHBlaWE2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp">
         </td>
     </tr>
-</table>
-
-<table style="width:100%;">
-          <tr>
-              <td>
-                 <img width="100%" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTR1cWg1NWExdXp0am50N2U1a2VwNzdta2puaTJvdnMxcHBlaWE2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp">
-              </td>
-              <td>
-                  <img width="100%" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTR1cWg1NWExdXp0am50N2U1a2VwNzdta2puaTJvdnMxcHBlaWE2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp">
-              </td>
-          </tr>
 </table>
 <hr>
 
