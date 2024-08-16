@@ -52,7 +52,7 @@
         <tbody>
             <!-- Programming Languages -->
             <tr>
-     		    <td align="center">Programming Languages</td>
+     		    <td align="center"><b>Programming Languages</b></td>
      	    </tr>
             <tr>
                 <td align="center">
@@ -68,7 +68,7 @@
                 </td>
             </tr>
             <tr>
-     		    <td align="center">Frameworks & Libraries</td>
+     		    <td align="center"><b>Frameworks & Libraries</b></td>
      	    </tr>
             <tr>
                 <td align="center">
@@ -111,7 +111,7 @@
                 </td>
             </tr>
             <tr>
-     		    <td align="center">Database</td>
+     		    <td align="center"><b>Database</b></td>
      	    </tr>
             <tr>
                 <td align="center">
@@ -123,7 +123,7 @@
                 </td>
             </tr>
             <tr>
-     		    <td align="center">Tools</td>
+     		    <td align="center"><b>Tools</b></td>
      	    </tr>
             <tr>
                 <td align="center">
@@ -132,7 +132,7 @@
                 </td>
             </tr>
             <tr>
-     		    <td align="center">Design</td>
+     		    <td align="center"><b>Design</b></td>
      	    </tr>
             <tr>
                 <td align="center">
@@ -164,6 +164,7 @@
           </tr>
     </table>
 </table>
+<hr>
 
 <!------------------------------------------------------------------------------------------->
 <!--## 📫 Connect With Me 📫-->
@@ -174,6 +175,23 @@
     <a href="mailto:anhnh.works"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge" alt="Gmail Badge"></a>
     <a href="https://zalo.me/84779363295"><img src="https://img.shields.io/badge/Zalo-0068FF?logo=zalo&logoColor=fff&style=for-the-badge" alt="Zalo Badge"></a>
 </div>
+
+<table style="width:100%;">
+    <tr>
+        <h3 align="center">📫 Connect With Me 📫</h3>
+    </tr>
+    <table style="width:100%;">
+        <tr>
+            <td>
+                <img src="https://img.shields.io/badge/Facebook-0866FF?logo=facebook&logoColor=fff&style=for-the-badge" alt="Facebook Badge">
+                <a href="https://www.facebook.com/anhtech21" alt=""></a>
+            </td>
+            <td><img src="https://img.shields.io/badge/Facebook-0866FF?logo=facebook&logoColor=fff&style=for-the-badge" alt="Facebook Badge"></td>
+            <td><img src="https://img.shields.io/badge/Facebook-0866FF?logo=facebook&logoColor=fff&style=for-the-badge" alt="Facebook Badge"></td>
+            <td><img src="https://img.shields.io/badge/Facebook-0866FF?logo=facebook&logoColor=fff&style=for-the-badge" alt="Facebook Badge"></td>
+        </tr>
+    </table>
+</table>
 
 
 
