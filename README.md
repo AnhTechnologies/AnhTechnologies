@@ -12,10 +12,7 @@
 
 <!------------------------------------------------------------------------------------------->
 <!--## 🚀 About Me 🚀-->
-<table align="center">
-    <tr>
-        <h3 align="center" style="font-family: Arial, sans-serif; font-size: 30px;">🚀 About Me 🚀</h3>
-    </tr>
+<h3 align="center" style="font-family: Arial, sans-serif; font-size: 30px;">🚀 About Me 🚀</h3>
     <table align="center">
         <p align="center">I'm a software developer with a passion for building web applications and learning new technologies.</p>
         <tr>
@@ -39,15 +36,11 @@
             <td>anhnh.works@gmail.com</td>
         </tr>
     </table>
-</table>
 <hr>
 
 <!------------------------------------------------------------------------------------------->
 <!--## 🛠️ My Skills 🛠️-->
-<table style="width:100%;" align="center">
-    <tr>
-        <h3 align="center">🛠️ My Skills 🛠️</h3>
-    </tr>
+<h3 align="center">🛠️ My Skills 🛠️</h3>
     <table style="width:100%;" align="center">
         <tbody>
             <!-- Programming Languages -->
@@ -143,16 +136,12 @@
             </tr>
         </tbody>
     </table>
-</table>
 <hr>
 
 <!------------------------------------------------------------------------------------------->
 <!--## 🔥 GitHub Stats 🔥-->
+<h3 align="center">🔥 GitHub Stats 🔥</h3>
 <table style="width:100%;">
-    <tr>
-        <h3 align="center">🔥 GitHub Stats 🔥</h3>
-    </tr>
-    <table style="width:100%;">
           <tr>
               <td>
                   <image align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhTechnologies&layout=compact&theme=tokyonight"alt="Anh-Technologies"></image>
@@ -162,7 +151,6 @@
                   <image src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="Anh-Technologies" width="100%"></image>
               </td>
           </tr>
-    </table>
 </table>
 <hr>
 
