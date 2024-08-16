@@ -128,9 +128,9 @@
      	    </tr>
             <tr>
                 <td align="center">
-                    <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=plastic" alt="Figma Badge">
-                    <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=plastic" alt="Adobe Photoshop Badge">
-                    <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=fff&style=plastic" alt="Canva Badge">
+                    <img width="30" height="30" src="https://img.icons8.com/fluency/48/canva.png" alt="canva"/>
+                    <img width="30" height="30" src="https://img.icons8.com/fluency/48/figma.png" alt="figma"/>
+                    <img width="30" height="30" src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" alt="adobe-photoshop--v1"/>
                 </td>
             </tr>
         </tbody>
