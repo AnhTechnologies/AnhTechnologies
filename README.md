@@ -2,7 +2,8 @@
 <!------------------------------------------------------------------------------------------->
 <div align="center">
     <p>
-       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/1200px-Flag_of_Vietnam.svg.png" align="center" width="10%" height="6%"> 
+       <img src="https://upload.wikimedia.org/wikipedia/commons/0/07/Flag_of_Vietnam-Animated.gif" align="center" width="7%" height="5%">
+       <img src="https://hungyen.dcs.vn/Images/codang_123.gif" align="center" width="10%" height="5%">
     </p>
 </div> 
 
@@ -138,6 +139,7 @@
           <tr>
               <td width="50%" align="center">
                   <image align="center" width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhTechnologies&layout=compact&theme=tokyonight"alt="Anh-Technologies"></image>
+                  <br>
                   <br>
                   <image align="center" width="80%" height="80%" src="https://github-readme-stats.vercel.app/api?username=AnhTechnologies&show_icons=true&theme=tokyonight" alt="Anh-Technologies"></image>
               </td>
