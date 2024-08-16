@@ -1,7 +1,9 @@
 <!--# Hi there, I'm Nguyen Hoang Anh! 👋 ![Vietnam](https://img.shields.io/badge/-Vietnam-DA251D?style=flat&logo=vietnam&logoColor=white)-->
 <!------------------------------------------------------------------------------------------->
 <div align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/1200px-Flag_of_Vietnam.svg.png" align="center" width="10%" height="6%">
+    <p>
+       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/1200px-Flag_of_Vietnam.svg.png" align="center" width="10%" height="6%"> 
+    </p>
 </div>
 
 <!------------------------------------------------------------------------------------------->
@@ -18,7 +20,7 @@
         <tr>
             <td>🔭 I’m currently working on</td>
             <td>:</td>
-            <td>Website For Managing And Trading Jewelry</td>
+            <td rowspan="4">Website For Managing And Trading Jewelry</td>
         </tr>
         <tr>
             <td>🌱 I used to study at</td>
@@ -36,6 +38,26 @@
             <td>anhnh.works@gmail.com</td>
         </tr>
     </table>
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGxsa2x4Nzg1NGxqM3E3ejFzY25sNTAyd2E0NGFucWZxbmkycGE4YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp">
+
+<table style="width:100%;" align="center">
+    <p align="center">I'm a software developer with a passion for building web applications and learning new technologies.</p>
+    <tr>
+        <td width="70%" height="10%">🔭 I’m currently working on: Website For Managing And Trading Jewelry</td>
+        <td rowspan="4" width="30%">
+            <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGxsa2x4Nzg1NGxqM3E3ejFzY25sNTAyd2E0NGFucWZxbmkycGE4YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp">
+        </td>
+    </tr>
+    <tr>
+        <td>🔭 I’m currently working on</td>
+    </tr>
+    <tr>
+        <td>🔭 I’m currently working on</td>
+    </tr>
+    <tr>
+        <td>🔭 I’m currently working on</td>
+    </tr>
+</table>
 <hr>
 
 <!------------------------------------------------------------------------------------------->
