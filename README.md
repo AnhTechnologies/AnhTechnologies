@@ -40,9 +40,11 @@
 
 <!------------------------------------------------------------------------------------------->
 <!--## 🛠️ My Skills 🛠️-->
-<h2 align="center">🛠️ My Skills 🛠️</h2>
-
 <table style="width:100%;" align="center">
+    <tr style="width:100%;" align="center">
+        <td>🛠️ My Skills 🛠️</td>
+    </tr>
+    <table style="width:100%;" align="center">
     <tbody>
         <!-- Programming Languages -->
         <tr>
@@ -137,7 +139,7 @@
         </tr>
     </tbody>
 </table>
-
+</table>
 
 <!------------------------------------------------------------------------------------------->
 <!--## 🔥 GitHub Stats 🔥-->
