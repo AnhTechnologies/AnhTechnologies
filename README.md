@@ -54,10 +54,43 @@ I'm a software developer with a passion for building web applications and learni
  	    </tr>
         <tr>
             <td>
+                <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=for-the-badge" alt="Bootstrap Badge">
+                <img src="https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff&style=for-the-badge" alt="Sass Badge">
+                <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge" alt="Tailwind CSS Badge">
                 <img src="https://img.shields.io/badge/angular-%23DD0031.svg?logo=angular&logoColor=white&style=for-the-badge">
+                <img src="https://img.shields.io/badge/Chart.js-FF6384?logo=chartdotjs&logoColor=fff&style=for-the-badge" alt="Chart.js Badge">
+                <img src="https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=for-the-badge" alt="Express Badge">
+                <img src="https://img.shields.io/badge/gulp-CF4647?logo=gulp&logoColor=fff&style=for-the-badge" alt="gulp Badge">
+                <img src="https://img.shields.io/badge/Pug-FFF?logo=pug&logoColor=A86454&style=for-the-badge" alt="Pug Badge">
+                <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff&style=for-the-badge" alt="jQuery Badge">
+                <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=fff&style=for-the-badge" alt="Laravel Badge">
+                <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff&style=for-the-badge" alt="npm Badge">
+                <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge" alt="Next.js Badge">
+                <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge" alt="React Badge">
+                <img src="https://img.shields.io/badge/Semantic%20UI%20React-35BDB2?logo=semanticuireact&logoColor=fff&style=for-the-badge" alt="Semantic UI React Badge">
+                <img src="https://img.shields.io/badge/react_native-%2320232a.svg?logo=react&logoColor=%2361DAFB&style=for-the-badge" alt="React Native">
+                <img src="https://img.shields.io/badge/React%20Router-CA4245?logo=reactrouter&logoColor=fff&style=for-the-badge" alt="React Router Badge">
+                <img src="https://img.shields.io/badge/React%20Hook%20Form-EC5990?logo=reacthookform&logoColor=fff&style=for-the-badge" alt="React Hook Form Badge">
+                <img src="https://img.shields.io/badge/redux-%23593d88.svg?logo=redux&logoColor=white&style=for-the-badge" alt="React Redux Badge">
+                <img src="https://img.shields.io/badge/rxjs-%23B7178C.svg?logo=reactivex&logoColor=white&style=for-the-badge" alt="RxDB Badge">
+                <img src="https://img.shields.io/badge/styled--components-DB7093?logo=styledcomponents&logoColor=fff&style=for-the-badge" alt="styled-components Badge">
+                <img src="https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=fff&style=for-the-badge" alt="Svelte Badge">
+                <img src="https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=fff&style=for-the-badge" alt="Node.js Badge">
+                <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=fff&style=for-the-badge" alt="NestJS Badge">
+                <img src="https://img.shields.io/badge/Nuxt-black?logo=nuxt.js&logoColor=white&style=for-the-badge" alt="Nuxt Badge">
+                <img src="https://img.shields.io/badge/Three.js-000?logo=threedotjs&logoColor=fff&style=for-the-badge" alt="Three.js Badge">
+                <img src="https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?logo=Thymeleaf&logoColor=white&style=for-the-badge" alt="Thymeleaf Badge">
+                <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?logo=vuedotjs&logoColor=%234FC08D&style=for-the-badge" alt="Vue.js Badge">
+                <img src="https://img.shields.io/badge/JSON%20Web%20Tokens-000?logo=jsonwebtokens&logoColor=fff&style=for-the-badge" alt="JSON Web Tokens Badge">
+                <img src="https://img.shields.io/badge/Semantic%20Web-005A9C?logo=semanticweb&logoColor=fff&style=for-the-badge" alt="Semantic Web Badge">
+                <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff&style=for-the-badge" alt="Spring Badge">
+                <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff&style=for-the-badge" alt="Spring Boot Badge">
+                <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?logo=springsecurity&logoColor=fff&style=for-the-badge" alt="Spring Security Badge">
+                <img src="https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=000&style=for-the-badge" alt="Webpack Badge">
+                <img src="https://img.shields.io/badge/Socket.io-010101?logo=socketdotio&logoColor=fff&style=for-the-badge" alt="Socket.io Badge">
+                <img src="https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=fff&style=for-the-badge" alt="Yarn Badge">
             </td>
         </tr>
-    
     </tbody>
 </table>
 <!------------------------------------------------------------------------------------------->
