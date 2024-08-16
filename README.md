@@ -17,6 +17,9 @@
 <!------------------------------------------------------------------------------------------->
 <!--## 🚀 About Me 🚀-->
 <h3 align="center">🚀 About Me 🚀</h3>
+
+<img src="https://img.shields.io/badge/🚀ABOUT-ME🚀-%23ED8B00.svg?logoColor=white&style=for-the-badge" alt="Java Badge">
+
 <table style="width:100%;" align="center">
     <p align="center">I'm a software developer with a passion for building web applications and learning new technologies.</p>
     <tr>
@@ -123,9 +126,9 @@
      	    </tr>
             <tr>
                 <td align="center">
-                    <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge" alt="Figma Badge">
-                    <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=for-the-badge" alt="Adobe Photoshop Badge">
-                    <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=fff&style=for-the-badge" alt="Canva Badge">
+                    <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=plastic" alt="Figma Badge">
+                    <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=plastic" alt="Adobe Photoshop Badge">
+                    <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=fff&style=plastic" alt="Canva Badge">
                 </td>
             </tr>
         </tbody>
@@ -154,10 +157,10 @@
 <!--## 📫 Connect With Me 📫-->
 <h3 align="center">📫 Connect With Me 📫</h3>
 <div align="center">
-    <a href="https://www.facebook.com/anhtech21" alt=""><img src="https://img.shields.io/badge/Facebook-0866FF?logo=facebook&logoColor=fff&style=for-the-badge" alt="Facebook Badge"></a>
-    <a href="https://www.linkedin.com/in/AnhTechnologies"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge" alt="LinkedIn Badge"></a>
-    <a href="mailto:anhnh.works.com"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge" alt="Gmail Badge"></a> 
-    <a href="https://zalo.me/84779363295"><img src="https://img.shields.io/badge/Zalo-0068FF?logo=zalo&logoColor=fff&style=for-the-badge" alt="Zalo Badge"></a>
+    <a href="https://www.facebook.com/anhtech21" alt=""><img src="https://img.shields.io/badge/Facebook-0866FF?logo=facebook&logoColor=fff&style=flat" alt="Facebook Badge"></a>
+    <a href="https://www.linkedin.com/in/AnhTechnologies"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat" alt="LinkedIn Badge"></a>
+    <a href="mailto:anhnh.works.com"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat" alt="Gmail Badge"></a> 
+    <a href="https://zalo.me/84779363295"><img src="https://img.shields.io/badge/Zalo-0068FF?logo=zalo&logoColor=fff&style=flat" alt="Zalo Badge"></a>
 </div>
 
 <!-- 
@@ -177,4 +180,32 @@ Dưới đây là một số số thành phần trên của Vue.js badge:
 4.3. For-the-Badge: Đặc điểm: Thiết kế đơn giản và gọn gàng, với kích thước chữ và biểu tượng được căn chỉnh để phù hợp với kích thước của badge.
 4.4. Social: Đặc điểm: Phong cách thiết kế thường được dùng cho các nền tảng mạng xã hội, thường có hình dạng và màu sắc phù hợp với giao diện mạng xã hội.
 -->
+
+# Hi there 👋, I'm [Your Name]!
+
+## About Me
+I'm a passionate software developer with experience in building web applications using various technologies.
+
+## 🔧 Technologies & Tools
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![trophy](https://github-profile-trophy.vercel.app/?username=your-username)
+
+## 🏆 Achievements
+- Built an e-commerce platform with Laravel.
+- Developed a chat application with real-time updates.
+
+## 📫 Contact Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-linkedin/)
+[![Twitter](https://img.shields.io/badge/-Twitter-333333?style=flat&logo=twitter)](https://twitter.com/your-twitter/)
+
+> "Strive not to be a success, but rather to be of value." - Albert Einstein
+
+![Profile Views](https://komarev.com/ghpvc/?username=your-username)
 
