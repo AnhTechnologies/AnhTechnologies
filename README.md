@@ -20,8 +20,8 @@ I'm a software developer with a passion for building web applications and learni
 - Design: ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
 
 <!--## 🔥 GitHub Stats 🔥-->
-<h2 align="center">🔥 GitHub Stats 🔥/h2>
-    
+<h2 align="center">🔥 GitHub Stats 🔥</h2>
+<br>
 <!--
 <div align="center">
     <image align="center" src="https://github-readme-stats.vercel.app/api?username=AnhTechnologies&show_icons=true&theme=tokyonight" alt="Anh-Technologies"></image>
@@ -44,11 +44,13 @@ I'm a software developer with a passion for building web applications and learni
 </table>
 
 <!--## 📫 Connect With Me 📫-->
-<h2 align="center">📫 Connect With Me 📫/h2>
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/anhtech21)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/AnhTechnologies)
-[![Zalo](https://img.shields.io/badge/-Zalo-0085CA?style=flat&logo=wechat&logoColor=white)](https://zalo.me/0779363295)
-<!--[![Phone](https://img.shields.io/badge/-Phone-34b7f1?style=flat&logo=phone&logoColor=white)](tel:+84779363295)-->
+<h2 align="center">📫 Connect With Me 📫</h2>
+<br>
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge)]
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)]
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)]
+[![Messenger](https://img.shields.io/badge/Messenger-00B2FF?logo=messenger&logoColor=white&style=for-the-badge)]
 
 
 
