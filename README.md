@@ -14,7 +14,7 @@
 <!--## 🚀 About Me 🚀-->
 <table align="center">
     <tr>
-        <h3 align="center">🚀 About Me 🚀</h3>
+        <h3 align="center" style="font-family: Arial, sans-serif; font-size: 30px;">🚀 About Me 🚀</h3>
     </tr>
     <table align="center">
         <p align="center">I'm a software developer with a passion for building web applications and learning new technologies.</p>
