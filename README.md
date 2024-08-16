@@ -46,6 +46,7 @@
      	    </tr>
             <tr>
                 <td align="center">
+                    <!--
                     <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=plastic" alt="HTML5 Badge">
                     <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=plastic" alt="CSS3 Badge">
                     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=plastic" alt="JavaScript Badge">
@@ -55,6 +56,16 @@
                     <img src="https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=plastic" alt="Markdown Badge">
                     <img src="https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=fff&style=plastic" alt="Swift Badge">
                     <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=plastic" alt="TypeScript Badge">
+                    -->
+                    <img width="30" height="30" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
+                    <img width="30" height="30" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/>
+                    <img width="30" height="30" src="https://img.icons8.com/fluency/48/javascript.png" alt="javascript"/>
+                    <img width="30" height="30" src="https://img.icons8.com/fluency/48/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>
+                    <img width="30" height="30" src="https://img.icons8.com/windows/32/000000/php-logo.png" alt="php-logo"/>
+                    <img width="30" height="30" src="https://img.icons8.com/fluency/48/python.png" alt="python"/>
+                    <img width="30" height="30" src="https://img.icons8.com/fluency/48/markdown.png" alt="markdown"/>
+                    <img width="30" height="30" src="https://img.icons8.com/fluency/48/swift.png" alt="swift"/>
+                    <img width="30" height="30" src="https://img.icons8.com/fluency/48/typescript--v1.png" alt="typescript--v1"/>
                 </td>
             </tr>
             <tr>
@@ -62,6 +73,7 @@
      	    </tr>
             <tr>
                 <td align="center">
+                    <!--
                     <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=plastic" alt="Bootstrap Badge">
                     <img src="https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff&style=plastic" alt="Sass Badge">
                     <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=plastic" alt="Tailwind CSS Badge">
@@ -78,8 +90,8 @@
                     <img src="https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB&style=plastic" alt="React Badge">
                     <img src="https://img.shields.io/badge/Semantic%20UI%20React-35BDB2?logo=semanticuireact&logoColor=fff&style=plastic" alt="Semantic UI React Badge">
                     <img src="https://img.shields.io/badge/react_native-%2320232a.svg?logo=react&logoColor=%2361DAFB&style=plastic" alt="React Native">
-                    <img src="https://img.shields.io/badge/React%20Router-CA4245?logo=reactrouter&logoColor=fff&style=plastic" alt="React Router Badge">
-                    <img src="https://img.shields.io/badge/React%20Hook%20Form-EC5990?logo=reacthookform&logoColor=fff&style=plastic" alt="React Hook Form Badge">
+                    <img src="https://img.shields.io/badge/React%20Router-CA4245?logo=reactrouter&logoColor=fff&style=plastic" alt="React Router Badge">-
+                    <img src="https://img.shields.io/badge/React%20Hook%20Form-EC5990?logo=reacthookform&logoColor=fff&style=plastic" alt="React Hook Form Badge">-
                     <img src="https://img.shields.io/badge/redux-%23593d88.svg?logo=redux&logoColor=white&style=plastic" alt="React Redux Badge">
                     <img src="https://img.shields.io/badge/rxjs-%23B7178C.svg?logo=reactivex&logoColor=white&style=plastic" alt="RxDB Badge">
                     <img src="https://img.shields.io/badge/styled--components-DB7093?logo=styledcomponents&logoColor=fff&style=plastic" alt="styled-components Badge">
@@ -98,6 +110,28 @@
                     <img src="https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=000&style=plastic" alt="Webpack Badge">
                     <img src="https://img.shields.io/badge/Socket.io-010101?logo=socketdotio&logoColor=fff&style=plastic" alt="Socket.io Badge">
                     <img src="https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=fff&style=plastic" alt="Yarn Badge">
+                    -->
+                    <img width="48" height="48" src="https://img.icons8.com/fluency/48/bootstrap.png" alt="bootstrap"/>
+                    <img width="48" height="48" src="https://img.icons8.com/color/48/sass-avatar.png" alt="sass-avatar"/>
+                    <img width="48" height="48" src="https://img.icons8.com/color/48/tailwindcss.png" alt="tailwindcss"/>
+                    <img width="48" height="48" src="https://img.icons8.com/fluency/48/angularjs.png" alt="angularjs"/>
+                    <img width="48" height="48" src="https://img.icons8.com/color/48/wordpress.png" alt="wordpress"/>
+                    <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/000000/jquery.png" alt="jquery"/>
+                    <img width="48" height="48" src="https://img.icons8.com/fluency/48/laravel.png" alt="laravel"/>
+                    <img width="48" height="48" src="https://img.icons8.com/color/48/npm.png" alt="npm"/>
+                    <img width="48" height="48" src="https://img.icons8.com/color/48/react-native.png" alt="react-native"/>
+                    <img width="48" height="48" src="https://img.icons8.com/color/48/redux.png" alt="redux"/>
+                    <img width="48" height="48" src="https://img.icons8.com/color/48/vue-js.png" alt="vue-js"/>
+                    <img width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>
+                    <img width="48" height="48" src="https://img.icons8.com/color/48/express-js.png" alt="express-js"/>
+                    <img width="48" height="48" src="https://img.icons8.com/color/48/nuxt-jc.png" alt="nuxt-jc"/>
+                    <img width="48" height="48" src="https://img.icons8.com/doodle/48/svetle.png" alt="svetle"/>
+                    <img width="48" height="48" src="https://img.icons8.com/color/48/nestjs.png" alt="nestjs"/>
+                    <img width="48" height="48" src="https://img.icons8.com/color/48/nextjs.png" alt="nextjs"/>
+                    <img width="48" height="48" src="https://img.icons8.com/color/48/thymeleaf.png" alt="thymeleaf"/>
+                    <img width="48" height="48" src="https://img.icons8.com/color/48/spring-logo.png" alt="spring-logo"/>
+                    <img width="48" height="48" src="https://img.icons8.com/color/48/webpack.png" alt="webpack"/>
+                    
                 </td>
             </tr>
             <tr>
@@ -117,8 +151,10 @@
      	    </tr>
             <tr>
                 <td align="center">
-                    <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=plastic" alt="Git Badge">
-                    <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=plastic" alt="Docker Badge">
+                    <img width="30" height="30" src="https://img.icons8.com/color/48/git.png" alt="git"/>
+                    <img width="30" height="30" src="https://img.icons8.com/fluency/48/docker.png" alt="docker"/>
+                    <img width="30" height="30" src="https://img.icons8.com/fluency/48/intellij-idea.png" alt="intellij-idea"/>
+                    <img width="30" height="30" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
                 </td>
             </tr>
             <tr>
