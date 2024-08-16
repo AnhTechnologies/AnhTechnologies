@@ -14,17 +14,17 @@
 
 <!------------------------------------------------------------------------------------------->
 <!--## 🚀 About Me 🚀-->
-<h3 align="center" style="font-family: Arial, sans-serif; font-size: 30px;">🚀 About Me 🚀</h3>
+<h3 align="center">🚀 About Me 🚀</h3>
 <table style="width:100%;" align="center">
     <p align="center">I'm a software developer with a passion for building web applications and learning new technologies.</p>
     <tr>
-        <td>
+        <td width="70%">
             <p>🔭 I’m currently working on: Website For Managing And Trading Jewelry</p>
             <p>🌱 I used to study at: East Asia University of Technology</p>
             <p>💬 Ask me about: Web Development</p>
             <p>📫 How to reach me: <a href="mailto:anhnh.works@gmail.com">anhnh.works@gmail.com</a></p>
         </td>
-        <td>
+        <td width="30%">
             <img width="100%" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTR1cWg1NWExdXp0am50N2U1a2VwNzdta2puaTJvdnMxcHBlaWE2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp">
         </td>
     </tr>
