@@ -2,8 +2,9 @@
 <!------------------------------------------------------------------------------------------->
 <div align="center">
     <p>
-       <img src="https://cdn.pixabay.com/animation/2022/09/18/18/39/18-39-26-615_512.gif" align="center" width="6%" height="5%">
-       <img src="https://hungyen.dcs.vn/Images/codang_123.gif" align="center" width="8%" height="5%">
+        <!-- Có thể thay bằng các ảnh gifs -->
+       <img src="https://xdcs.cdnchinhphu.vn/446259493575335936/2023/3/10/dangky-1678414634214362948075.jpg" align="center" width="6%" height="5%">
+       <img src="https://images.baodantoc.vn/uploads/2022/Th%C3%A1ng%208/Ng%C3%A0y_31/Nga/quockyvietnam-copy-7814.jpg" align="center" width="6%" height="5%">
     </p>
 </div> 
 
