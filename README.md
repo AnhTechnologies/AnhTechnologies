@@ -169,14 +169,10 @@
 <!------------------------------------------------------------------------------------------->
 <!--## 📫 Connect With Me 📫-->
 <h3 align="center">📫 Connect With Me 📫</h3>
-<div>
+<div align="center">
     <a href="https://www.facebook.com/anhtech21" alt=""><img src="https://img.shields.io/badge/Facebook-0866FF?logo=facebook&logoColor=fff&style=for-the-badge" alt="Facebook Badge"></a>
     <a href="https://www.linkedin.com/in/AnhTechnologies"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge" alt="LinkedIn Badge"></a>
     <a href="mailto:anhnh.works"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge" alt="Gmail Badge"></a> 
     <a href="https://zalo.me/84779363295"><img src="https://img.shields.io/badge/Zalo-0068FF?logo=zalo&logoColor=fff&style=for-the-badge" alt="Zalo Badge"></a>
 </div>
-<a href="https://www.facebook.com/anhtech21" alt=""><img src="https://img.shields.io/badge/Facebook-0866FF?logo=facebook&logoColor=fff&style=for-the-badge" alt="Facebook Badge"></a>
-<a href="https://www.linkedin.com/in/AnhTechnologies"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge" alt="LinkedIn Badge"></a>
-<a href="mailto:anhnh.works"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge" alt="Gmail Badge"></a> 
-<a href="https://zalo.me/84779363295"><img src="https://img.shields.io/badge/Zalo-0068FF?logo=zalo&logoColor=fff&style=for-the-badge" alt="Zalo Badge"></a>
 
