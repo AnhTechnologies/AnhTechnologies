@@ -78,7 +78,7 @@
                     <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=fff&style=for-the-badge" alt="Laravel Badge">
                     <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff&style=for-the-badge" alt="npm Badge">
                     <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge" alt="Next.js Badge">
-                    <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge" alt="React Badge">
+                    <img src="https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB&style=for-the-badge" alt="React Badge">
                     <img src="https://img.shields.io/badge/Semantic%20UI%20React-35BDB2?logo=semanticuireact&logoColor=fff&style=for-the-badge" alt="Semantic UI React Badge">
                     <img src="https://img.shields.io/badge/react_native-%2320232a.svg?logo=react&logoColor=%2361DAFB&style=for-the-badge" alt="React Native">
                     <img src="https://img.shields.io/badge/React%20Router-CA4245?logo=reactrouter&logoColor=fff&style=for-the-badge" alt="React Router Badge">
