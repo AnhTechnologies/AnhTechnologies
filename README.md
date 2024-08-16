@@ -117,6 +117,8 @@ I'm a software developer with a passion for building web applications and learni
         </tr>
     </tbody>
 </table>
+
+
 <!------------------------------------------------------------------------------------------->
 <!--## 🔥 GitHub Stats 🔥-->
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
@@ -139,10 +141,10 @@ I'm a software developer with a passion for building web applications and learni
 <h2 align="center">📫 Connect With Me 📫</h2>
 <br>
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge)]
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)]
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)]
-[![Messenger](https://img.shields.io/badge/Messenger-00B2FF?logo=messenger&logoColor=white&style=for-the-badge)]
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge)]()
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)]()
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)]()
+[![Messenger](https://img.shields.io/badge/Messenger-00B2FF?logo=messenger&logoColor=white&style=for-the-badge)]()
 
 
 
