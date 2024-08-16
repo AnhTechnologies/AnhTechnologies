@@ -185,9 +185,15 @@
             <td>
                 <a href="https://www.facebook.com/anhtech21" alt=""><img src="https://img.shields.io/badge/Facebook-0866FF?logo=facebook&logoColor=fff&style=for-the-badge" alt="Facebook Badge"></a>
             </td>
-            <td><img src="https://img.shields.io/badge/Facebook-0866FF?logo=facebook&logoColor=fff&style=for-the-badge" alt="Facebook Badge"></td>
-            <td><img src="https://img.shields.io/badge/Facebook-0866FF?logo=facebook&logoColor=fff&style=for-the-badge" alt="Facebook Badge"></td>
-            <td><img src="https://img.shields.io/badge/Facebook-0866FF?logo=facebook&logoColor=fff&style=for-the-badge" alt="Facebook Badge"></td>
+            <td>
+                <a href="https://www.linkedin.com/in/AnhTechnologies"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge" alt="LinkedIn Badge"></a>
+            </td>
+            <td>
+               <a href="mailto:anhnh.works"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge" alt="Gmail Badge"></a> 
+            </td>
+            <td>
+                <a href="https://zalo.me/84779363295"><img src="https://img.shields.io/badge/Zalo-0068FF?logo=zalo&logoColor=fff&style=for-the-badge" alt="Zalo Badge"></a>
+            </td>
         </tr>
     </table>
 </table>
