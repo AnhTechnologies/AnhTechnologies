@@ -23,13 +23,6 @@ I'm a software developer with a passion for building web applications and learni
 <!--## 🛠️ My Skills 🛠️-->
 <h2 align="center">🛠️ My Skills 🛠️</h2>
 
-- Programming Languages: ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1C?style=flat&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/-Java-E34F26?style=flat&logo=java&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-- Frameworks & Libraries: ![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react&logoColor=white) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white) ![Laravel](https://img.shields.io/badge/-Laravel-E74430?style=flat&logo=laravel&logoColor=white) ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white) ![Spring MVC](https://img.shields.io/badge/-Spring%20MVC-6DB33F?style=flat&logo=spring&logoColor=white) ![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat&logo=hibernate&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white) ![Spring Framework](https://img.shields.io/badge/-Spring%20Framework-6DB33F?style=flat&logo=spring&logoColor=white)
-- Database: [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/) [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-- Tools: ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-- Design: ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
-
-
 <table style="width:100%;" align="center">
     <tbody>
         <!-- Programming Languages -->
@@ -89,6 +82,36 @@ I'm a software developer with a passion for building web applications and learni
                 <img src="https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=000&style=for-the-badge" alt="Webpack Badge">
                 <img src="https://img.shields.io/badge/Socket.io-010101?logo=socketdotio&logoColor=fff&style=for-the-badge" alt="Socket.io Badge">
                 <img src="https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=fff&style=for-the-badge" alt="Yarn Badge">
+            </td>
+        </tr>
+        <tr>
+ 		    <td align="center">Database</td>
+ 	    </tr>
+        <tr>
+            <td>
+                <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge" alt="MySQL Badge">
+                <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge" alt="MongoDB Badge">
+                <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge" alt="PostgreSQL Badge">
+                <img src="https://img.shields.io/badge/redis-%23DD0031.svg?logo=redis&logoColor=white&style=for-the-badge" alt="Redis Badge">
+                <img src="https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=fff&style=for-the-badge" alt="Sequelize Badge">
+            </td>
+        </tr>
+        <tr>
+ 		    <td align="center">Tools</td>
+ 	    </tr>
+        <tr>
+            <td>
+                <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge" alt="Git Badge">
+                <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge" alt="Docker Badge">
+            </td>
+        </tr>
+        <tr>
+ 		    <td align="center">Design</td>
+ 	    </tr>
+        <tr>
+            <td>
+                <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge" alt="Figma Badge">
+                <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=for-the-badge" alt="Adobe Photoshop Badge">
             </td>
         </tr>
     </tbody>
