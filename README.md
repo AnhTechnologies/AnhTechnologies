@@ -49,7 +49,7 @@
                     <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=plastic" alt="HTML5 Badge">
                     <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=plastic" alt="CSS3 Badge">
                     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=plastic" alt="JavaScript Badge">
-                    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=white&style=plastic" alt="Java Badge">
+                    <img src="https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white" alt="Java Badge">
                     <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=plastic" alt="PHP Badge">
                     <img src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54&style=plastic" alt="Python Badge">
                     <img src="https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=plastic" alt="Markdown Badge">
