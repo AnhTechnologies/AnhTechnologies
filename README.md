@@ -69,20 +69,22 @@
 <!------------------------------------------------------------------------------------------->
 <!--## 🔥 GitHub Stats 🔥-->
 <h3 align="center">🔥 GITHUB STATS 🔥</h3>
-<table style="width:100%;">
-          <tr>
-              <td width="50%" align="center">
-                  <image align="center" width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhTechnologies&layout=compact&theme=tokyonight"alt="Anh-Technologies"></image>
-                  <br>
-                  <br>
-                  <image align="center" width="80%" height="80%" src="https://github-readme-stats.vercel.app/api?username=AnhTechnologies&show_icons=true&theme=tokyonight" alt="Anh-Technologies"></image>
-              </td>
-              <td width="50%">
-                  <image src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="Anh-Technologies" width="100%"></image>
-              </td>
-          </tr>
-    <tr align="center">
-        <td colspan="2" align="center">
+<table align="center" style="width:100%;">
+    <tr>
+        <td width="50%" align="center">
+            <image align="center" width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhTechnologies&layout=compact&theme=tokyonight"alt="Anh-Technologies"></image>
+        </td>
+        <td rowspan="2" width="50%">
+            <image src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="Anh-Technologies" width="100%"></image>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <image align="center" width="80%" height="80%" src="https://github-readme-stats.vercel.app/api?username=AnhTechnologies&show_icons=true&theme=tokyonight" alt="Anh-Technologies"></image>
+        </td>
+    </tr>
+    <tr>
+        <td align="center" colspan="2">
             <img src="https://github-profile-trophy.vercel.app/?username=AnhTechnologies&theme=tokyonight" alt="github-trophies">
         </td>
     </tr>
