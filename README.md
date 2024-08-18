@@ -44,7 +44,22 @@
     </tr>
     <tr align="center">
         <td align="center">
-            <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,sass,jquery,angular,react,vue,materialui,styledcomponents,redux,nodejs,express,nestjs,threejs,wordpress,laravel,spring,hibernate,npm,svelte,nuxtjs,nextjs,yarn,gradle,webpack" alt="programing-language">
+            <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,sass,jquery,angular,react,vue,solidjs,materialui,styledcomponents,redux,nodejs,express,nestjs,threejs,wordpress,laravel,spring,hibernate,npm,svelte,nuxtjs,nextjs,yarn,gradle,webpack,maven" alt="frameworks-libraries">
+        </td>
+    </tr>
+    <tr align="center">
+        <td align="center">
+            <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,postgres,sequelize" alt="database">
+        </td>
+    </tr>
+    <tr align="center">
+        <td align="center">
+            <img src="https://skillicons.dev/icons?i=git,docker,vscode,phpstorm,idea,postman,notion" alt="tools">
+        </td>
+    </tr>
+    <tr align="center">
+        <td align="center">
+            <img src="https://skillicons.dev/icons?i=ps,figma" alt="tools">
         </td>
     </tr>
 </table>
