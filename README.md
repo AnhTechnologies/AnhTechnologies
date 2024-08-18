@@ -25,10 +25,10 @@
     <p>📫 How to reach me: <a href="mailto:anhnh.works@gmail.com">anhnh.works@gmail.com</a></p>
     <!--## 📫 Connect With Me 📫-->
     <div>
-        <a href="https://www.facebook.com/anhtech21" alt="" target="_blank"><img width="40" height="40" src="https://img.icons8.com/color/48/facebook-new.png" alt="facebook-new"></a>&nbsp;
-        <a href="https://www.linkedin.com/in/AnhTechnologies" alt="" target="_blank"><img width="40" height="40" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/></a>&nbsp;
-        <a href="mailto:anhnh.works.com" alt="" target="_blank"><img width="40" height="40" src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail-new"/></a>&nbsp;
-        <a href="https://zalo.me/84779363295" alt="" target="_blank"><img width="40" height="40" src="https://img.icons8.com/color/48/zalo.png" alt="zalo"></a>
+        <a href="https://www.facebook.com/anhtech21" alt="" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/facebook-new.png" alt="facebook-new"></a>&nbsp;
+        <a href="https://www.linkedin.com/in/AnhTechnologies" alt="" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/></a>&nbsp;
+        <a href="mailto:anhnh.works.com" alt="" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail-new"/></a>&nbsp;
+        <a href="https://zalo.me/84779363295" alt="" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/zalo.png" alt="zalo"></a>
     </div>
 </div>
 <hr>
