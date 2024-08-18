@@ -3,8 +3,8 @@
 <div align="center">
     <p>
         <!-- Có thể thay bằng các ảnh gifs -->
-       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGHNvA8j26-L1GlzL0p1VUtbjuJEVPMVw_bg&s" align="center" width="5%" height="5%">
-       <img src="https://images.baodantoc.vn/uploads/2022/Th%C3%A1ng%208/Ng%C3%A0y_31/Nga/quockyvietnam-copy-7814.jpg" align="center" width="5%" height="5%">
+       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGHNvA8j26-L1GlzL0p1VUtbjuJEVPMVw_bg&s" align="center" width="7%" height="5%">
+       <img src="https://images.baodantoc.vn/uploads/2022/Th%C3%A1ng%208/Ng%C3%A0y_31/Nga/quockyvietnam-copy-7814.jpg" align="center" width="7%" height="5%">
     </p>
 </div> 
 
