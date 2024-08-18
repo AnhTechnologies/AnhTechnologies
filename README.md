@@ -82,7 +82,7 @@
           </tr>
     <tr align="center">
         <td colspan="2" align="center">
-            <img src="https://github-profile-trophy.vercel.app/?username=AnhTechnologies" alt="">
+            <img src="https://github-profile-trophy.vercel.app/?username=AnhTechnologies&theme=tokyonight" alt="github-trophies">
         </td>
     </tr>
 </table>
