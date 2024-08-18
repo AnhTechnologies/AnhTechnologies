@@ -75,6 +75,7 @@
      	    </tr>
             <tr>
                 <td align="center">
+                    <!--
                     <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=plastic" alt="Bootstrap Badge">
                     <img src="https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff&style=plastic" alt="Sass Badge">
                     <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=plastic" alt="Tailwind CSS Badge">
@@ -111,6 +112,19 @@
                     <img src="https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=000&style=plastic" alt="Webpack Badge">
                     <img src="https://img.shields.io/badge/Socket.io-010101?logo=socketdotio&logoColor=fff&style=plastic" alt="Socket.io Badge">
                     <img src="https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=fff&style=plastic" alt="Yarn Badge">
+                    -->
+                    <img width="30" height="30" src="https://img.icons8.com/fluency/48/bootstrap.png" alt="bootstrap"/>
+                    <img width="30" height="30" src="https://img.icons8.com/fluency/48/tailwind_css.png" alt="tailwind_css"/>
+                    <img width="30" height="30" src="https://img.icons8.com/color/48/sass.png" alt="sass"/>          
+                    <img width="30" height="30" src="https://cdn-icons-png.flaticon.com/128/174/174881.png" alt="wordpress"/>
+                    <img width="30" height="30" src="https://img.icons8.com/ios-filled/50/jquery.png" alt="jquery"/>
+                    <img width="30" height="30" src="https://cdn-icons-png.flaticon.com/128/875/875209.png" alt="react"/>
+                    <img width="30" height="30" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-vuejs-an-open-source-javascript-framework-for-building-user-interfaces-and-single-page-applications-logo-shadow-tal-revivo.png" alt="external-vuejs-an-open-source-javascript-framework-for-building-user-interfaces-and-single-page-applications-logo-shadow-tal-revivo"/>
+                    <img width="30" height="30" src="https://img.icons8.com/fluency/48/laravel.png" alt="laravel"/>
+                    <img width="30" height="30" src="https://img.icons8.com/color/48/npm.png" alt="npm"/>
+                    <img width="30" height="30" src="https://img.icons8.com/color/48/nestjs.png" alt="nestjs"/>
+                    <img width="30" height="30"" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>
+                    <img width="30" height="30" src="https://img.icons8.com/fluency-systems-regular/48/nextjs.png" alt="nextjs"/>
                 </td>
             </tr>
             <tr>
