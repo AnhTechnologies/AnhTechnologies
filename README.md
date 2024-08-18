@@ -17,179 +17,32 @@
 <!------------------------------------------------------------------------------------------->
 <!--## 🚀 About Me 🚀-->
 <h3 align="center">🚀 ABOUT ME 🚀</h3>
-
-<table style="width:100%;" align="center">
-    <p align="center">I'm a software developer with a passion for building web applications and learning new technologies.</p>
-    <tr>
-        <td width="70%">
-            <p>🔭 I’m currently working on: Website For Managing And Trading Jewelry</p>
-            <p>🌱 I used to study at: East Asia University of Technology</p>
-            <p>💬 Ask me about: Web Development</p>
-            <p>📫 How to reach me: <a href="mailto:anhnh.works@gmail.com">anhnh.works@gmail.com</a></p>
-        </td>
-        <td width="30%">
-            <img width="100%" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTR1cWg1NWExdXp0am50N2U1a2VwNzdta2puaTJvdnMxcHBlaWE2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp">
-        </td>
-    </tr>
-</table>
-<hr>
-
-<!------------------------------------------------------------------------------------------->
-<!--## 📫 Connect With Me 📫-->
-<h3 align="center">📫 CONNECT WITH ME 📫</h3>
 <div align="center">
-    <!--
-    <a href="https://www.facebook.com/anhtech21" alt=""><img src="https://img.shields.io/badge/Facebook-0866FF?logo=facebook&logoColor=fff&style=flat" alt="Facebook Badge"></a>
-    <a href="https://www.linkedin.com/in/AnhTechnologies"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat" alt="LinkedIn Badge"></a>
-    <a href="mailto:anhnh.works.com"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat" alt="Gmail Badge"></a> 
-    <a href="https://zalo.me/84779363295"><img src="https://img.shields.io/badge/Zalo-0068FF?logo=zalo&logoColor=fff&style=flat" alt="Zalo Badge"></a>
-    -->
-    <a href="https://www.facebook.com/anhtech21" alt=""><img width="30" height="30" src="https://img.icons8.com/color/48/facebook-new.png" alt="facebook-new"></a>
-    <a href="https://www.linkedin.com/in/AnhTechnologies"><img width="30" height="30" src="https://cdn-icons-png.flaticon.com/128/145/145807.png" alt="linkedin"></a>
-    <a href="mailto:anhnh.works.com"><img width="30" height="30" src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail-new"/></a> 
-    <a href="https://zalo.me/84779363295"><img width="30" height="30" src="https://img.icons8.com/color/48/zalo.png" alt="zalo"></a>
+    <p>🔭 I’m currently working on: Website For Managing And Trading Jewelry</p>
+    <p>🌱 I used to study at: East Asia University of Technology</p>
+    <p>💬 Ask me about: Web Development</p>
+    <p>📫 How to reach me: <a href="mailto:anhnh.works@gmail.com">anhnh.works@gmail.com</a></p>
+    <!--## 📫 Connect With Me 📫-->
+    <div>
+        <a href="https://www.facebook.com/anhtech21" alt=""><img width="40" height="40" src="https://img.icons8.com/color/48/facebook-new.png" alt="facebook-new"></a>&nbsp;
+        <a href="https://www.linkedin.com/in/AnhTechnologies"><img width="40" height="40" src="https://cdn-icons-png.flaticon.com/128/145/145807.png" alt="linkedin"></a>&nbsp;
+        <a href="mailto:anhnh.works.com"><img width="40" height="40" src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail-new"/></a>&nbsp;
+        <a href="https://zalo.me/84779363295"><img width="40" height="40" src="https://img.icons8.com/color/48/zalo.png" alt="zalo"></a>
+    </div>
 </div>
 <hr>
 
 <!------------------------------------------------------------------------------------------->
 <!--## 🛠️ My Skills 🛠️-->
 <h3 align="center">🛠️ TECHNICAL STACK 🛠️</h3>
-    <table style="width:100%;" align="center">
-        <tbody>
-            <!-- Programming Languages -->
-            <tr>
-     		    <td align="center"><b>Programming Languages</b></td>
-     	    </tr>
-            <tr>
-                <td align="center">
-                    <!-- Sử dụng các Badge -->
-                    <!--
-                    <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=plastic" alt="HTML5 Badge">
-                    <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=plastic" alt="CSS3 Badge">
-                    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=plastic" alt="JavaScript Badge">
-                    <img src="https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white" alt="Java Badge">
-                    <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=plastic" alt="PHP Badge">
-                    <img src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54&style=plastic" alt="Python Badge">
-                    <img src="https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=plastic" alt="Markdown Badge">
-                    <img src="https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=fff&style=plastic" alt="Swift Badge">
-                    <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=plastic" alt="TypeScript Badge">
-                    -->
-                    <!-- Sử dụng các icon hình ảnh -->
-                    <img width="30" height="30" src="https://img.icons8.com/fluency/48/html-5.png" alt="html-5"/>
-                    <img width="30" height="30" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/>
-                    <img width="30" height="30" src="https://img.icons8.com/fluency/48/javascript.png" alt="javascript"/>
-                    <img width="30" height="30" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
-                    <img width="30" height="30" src="https://cdn-icons-png.flaticon.com/128/5968/5968332.png" alt="php">
-                    <img width="30" height="30" src="https://img.icons8.com/fluency/48/python.png" alt="python"/>
-                    <img width="30" height="30" src="https://img.icons8.com/ios/50/markdown--v1.png" alt="markdown--v1"/>
-                    <img width="30" height="30" src="https://img.icons8.com/fluency/48/typescript--v1.png" alt="typescript--v1"/>
-                    <img width="30" height="30" src="https://img.icons8.com/color/48/swift.png" alt="swift"/>
-                </td>
-            </tr>
-            <tr>
-     		    <td align="center"><b>Frameworks & Libraries</b></td>
-     	    </tr>
-            <tr>
-                <td align="center">
-                    <!--
-                    <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=plastic" alt="Bootstrap Badge">
-                    <img src="https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff&style=plastic" alt="Sass Badge">
-                    <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=plastic" alt="Tailwind CSS Badge">
-                    <img src="https://img.shields.io/badge/angular-%23DD0031.svg?logo=angular&logoColor=white&style=plastic" alt="Angular Badge">
-                    <img src="https://img.shields.io/badge/Chart.js-FF6384?logo=chartdotjs&logoColor=fff&style=plastic" alt="Chart.js Badge">
-                    <img src="https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=plastic" alt="Express Badge">
-                    <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=fff&style=plastic" alt="WordPress Badge">
-                    <img src="https://img.shields.io/badge/gulp-CF4647?logo=gulp&logoColor=fff&style=plastic" alt="gulp Badge">
-                    <img src="https://img.shields.io/badge/Pug-FFF?logo=pug&logoColor=A86454&style=plastic" alt="Pug Badge">
-                    <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff&style=plastic" alt="jQuery Badge">
-                    <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=fff&style=plastic" alt="Laravel Badge">
-                    <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff&style=plastic" alt="npm Badge">
-                    <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=plastic" alt="Next.js Badge">
-                    <img src="https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB&style=plastic" alt="React Badge">
-                    <img src="https://img.shields.io/badge/Semantic%20UI%20React-35BDB2?logo=semanticuireact&logoColor=fff&style=plastic" alt="Semantic UI React Badge">
-                    <img src="https://img.shields.io/badge/react_native-%2320232a.svg?logo=react&logoColor=%2361DAFB&style=plastic" alt="React Native">
-                    <img src="https://img.shields.io/badge/React%20Router-CA4245?logo=reactrouter&logoColor=fff&style=plastic" alt="React Router Badge">-
-                    <img src="https://img.shields.io/badge/React%20Hook%20Form-EC5990?logo=reacthookform&logoColor=fff&style=plastic" alt="React Hook Form Badge">-
-                    <img src="https://img.shields.io/badge/redux-%23593d88.svg?logo=redux&logoColor=white&style=plastic" alt="React Redux Badge">
-                    <img src="https://img.shields.io/badge/rxjs-%23B7178C.svg?logo=reactivex&logoColor=white&style=plastic" alt="RxDB Badge">
-                    <img src="https://img.shields.io/badge/styled--components-DB7093?logo=styledcomponents&logoColor=fff&style=plastic" alt="styled-components Badge">
-                    <img src="https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=fff&style=plastic" alt="Svelte Badge">
-                    <img src="https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=fff&style=plastic" alt="Node.js Badge">
-                    <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=fff&style=plastic" alt="NestJS Badge">
-                    <img src="https://img.shields.io/badge/Nuxt-black?logo=nuxt.js&logoColor=white&style=plastic" alt="Nuxt Badge">
-                    <img src="https://img.shields.io/badge/Three.js-000?logo=threedotjs&logoColor=fff&style=plastic" alt="Three.js Badge">
-                    <img src="https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?logo=Thymeleaf&logoColor=white&style=plastic" alt="Thymeleaf Badge">
-                    <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?logo=vuedotjs&logoColor=%234FC08D&style=plastic" alt="Vue.js Badge">
-                    <img src="https://img.shields.io/badge/JSON%20Web%20Tokens-000?logo=jsonwebtokens&logoColor=fff&style=plastic" alt="JSON Web Tokens Badge">
-                    <img src="https://img.shields.io/badge/Semantic%20Web-005A9C?logo=semanticweb&logoColor=fff&style=plastic" alt="Semantic Web Badge">
-                    <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff&style=plastic" alt="Spring Badge">
-                    <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff&style=plastic" alt="Spring Boot Badge">
-                    <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?logo=springsecurity&logoColor=fff&style=plastic" alt="Spring Security Badge">
-                    <img src="https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=000&style=plastic" alt="Webpack Badge">
-                    <img src="https://img.shields.io/badge/Socket.io-010101?logo=socketdotio&logoColor=fff&style=plastic" alt="Socket.io Badge">
-                    <img src="https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=fff&style=plastic" alt="Yarn Badge">
-                    -->
-                    <img width="30" height="30" src="https://img.icons8.com/fluency/48/bootstrap.png" alt="bootstrap"/>
-                    <img width="30" height="30" src="https://img.icons8.com/fluency/48/tailwind_css.png" alt="tailwind_css"/>
-                    <img width="30" height="30" src="https://img.icons8.com/color/48/sass.png" alt="sass"/>          
-                    <img width="30" height="30" src="https://cdn-icons-png.flaticon.com/128/174/174881.png" alt="wordpress"/>
-                    <img width="30" height="30" src="https://img.icons8.com/ios-filled/50/jquery.png" alt="jquery"/>
-                    <img width="30" height="30" src="https://cdn-icons-png.flaticon.com/128/875/875209.png" alt="react"/>
-                    <img width="30" height="30" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-vuejs-an-open-source-javascript-framework-for-building-user-interfaces-and-single-page-applications-logo-shadow-tal-revivo.png" alt="external-vuejs-an-open-source-javascript-framework-for-building-user-interfaces-and-single-page-applications-logo-shadow-tal-revivo"/>
-                    <img width="30" height="30" src="https://img.icons8.com/fluency/48/laravel.png" alt="laravel"/>
-                    <img width="30" height="30" src="https://img.icons8.com/color/48/npm.png" alt="npm"/>
-                    <img width="30" height="30" src="https://img.icons8.com/color/48/nestjs.png" alt="nestjs"/>
-                    <img width="30" height="30" src="https://img.icons8.com/doodle/48/svetle.png" alt="svetle"/>
-                    <img width="30" height="30" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>
-                    <img width="30" height="30" src="https://img.icons8.com/fluency-systems-regular/48/nextjs.png" alt="nextjs"/>
-                    <img width="30" height="30" src="https://img.icons8.com/color/48/spring-logo.png" alt="spring-logo"/>
-                    <img width="30" height="30" src="https://img.icons8.com/color/48/webpack.png" alt="webpack"/>
-                    <img width="30" height="30" src="https://socket.io/images/logo-dark.svg" alt="socket.io"/>
-                </td>
-            </tr>
-            <tr>
-     		    <td align="center"><b>Database</b></td>
-     	    </tr>
-            <tr>
-                <td align="center">
-                    <!--
-                    <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=plastic" alt="MySQL Badge">
-                    <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=plastic" alt="MongoDB Badge">
-                    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=plastic" alt="PostgreSQL Badge">
-                    <img src="https://img.shields.io/badge/redis-%23DD0031.svg?logo=redis&logoColor=white&style=plastic" alt="Redis Badge">
-                    <img src="https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=fff&style=plastic" alt="Sequelize Badge">
-                    -->
-                    <img width="30" height="30" src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="microsoft-sql-server"/>
-                    <img width="30" height="30" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"/>
-                    <img width="30" height="30" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/>
-                    <img width="30" height="30" src="https://img.icons8.com/color/48/mongo-db.png" alt="mongo-db"/>
-                    <img width="30" height="30" src="https://img.icons8.com/color/48/redis--v1.png" alt="redis--v1"/>
-                </td>
-            </tr>
-            <tr>
-     		    <td align="center"><b>Tools</b></td>
-     	    </tr>
-            <tr>
-                <td align="center">
-                    <img width="30" height="30" src="https://img.icons8.com/color/48/git.png" alt="git"/>
-                    <img width="30" height="30" src="https://img.icons8.com/fluency/48/docker.png" alt="docker"/>
-                    <img width="30" height="30" src="https://img.icons8.com/fluency/48/intellij-idea.png" alt="intellij-idea"/>
-                    <img width="30" height="30" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
-                </td>
-            </tr>
-            <tr>
-     		    <td align="center"><b>Design</b></td>
-     	    </tr>
-            <tr>
-                <td align="center">
-                    <img width="30" height="30" src="https://img.icons8.com/fluency/48/canva.png" alt="canva"/>
-                    <img width="30" height="30" src="https://img.icons8.com/fluency/48/figma.png" alt="figma"/>
-                    <img width="30" height="30" src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" alt="adobe-photoshop--v1"/>
-                </td>
-            </tr>
-        </tbody>
-    </table>
-<hr>
+<!-- [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev) -->
+<table align="center">
+    <tr align="center">
+        <td align="center">
+            <img align="center" src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,js,php,java,php,py,swift,ts,git,idea,jquery,kubernetes,laravel,md,mongodb,mysql,react,redux,nestjs,nodejs,vue,npm,nuxtjs,ps,postman,pug,styledcomponents,webpack,wordpress,yarn">
+        </td>
+    </tr>
+</table>
 
 <!------------------------------------------------------------------------------------------->
 <!--## 🔥 GitHub Stats 🔥-->
@@ -208,21 +61,4 @@
           </tr>
 </table>
 
-<!-- 
-Dưới đây là một số số thành phần trên của Vue.js badge:
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white) 
-
-1. Nhãn Vue.js:
-1.1. Biểu tượng (Logo): Biểu tượng Vue.js màu xanh lá cây đặc trưng. Đây là biểu tượng chính thức của Vue.js.
-1.2. Tên: "Vue.js" được hiển thị sau biểu tượng, dễ dàng nhận diện rằng đây là một badge liên quan đến Vue.js.
-2. Màu nền (Background Color):
-2.1. Màu: #4FC08D (một màu xanh lá cây nhạt). Màu sắc này thường được kết hợp với Vue.js, thể hiện sự tươi mới và thân thiện với lập trình viên.
-3. Màu chữ (Text Color):
-3.1. Màu: Màu trắng (white). Màu chữ trắng nổi bật trên nền xanh lá cây, giúp cho nội dung dễ đọc hơn.
-4. Kiểu (Style):
-4.1. Flat:Đặc điểm: Thiết kế phẳng, không có hiệu ứng bóng hoặc độ nổi. Đơn giản và dễ nhìn.
-4.2. Plastic: Đặc điểm: Có hiệu ứng ánh sáng và bóng mờ giống như nhựa. Tạo cảm giác ba chiều hơn so với kiểu flat.
-4.3. For-the-Badge: Đặc điểm: Thiết kế đơn giản và gọn gàng, với kích thước chữ và biểu tượng được căn chỉnh để phù hợp với kích thước của badge.
-4.4. Social: Đặc điểm: Phong cách thiết kế thường được dùng cho các nền tảng mạng xã hội, thường có hình dạng và màu sắc phù hợp với giao diện mạng xã hội.
--->
 
