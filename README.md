@@ -18,10 +18,10 @@
 <!--## 🚀 About Me 🚀-->
 <h3 align="center">🚀 ABOUT ME 🚀</h3>
 <div align="center">
-    <p>🔭 I’m currently working on: Website For Managing And Trading Jewelry</p>
-    <p>🌱 I used to study at: East Asia University of Technology</p>
-    <p>💬 Ask me about: Web Development</p>
-    <p>📫 How to reach me: <a href="mailto:anhnh.works@gmail.com">anhnh.works@gmail.com</a></p>
+    🔭 I’m currently working on: Website For Managing And Trading Jewelry
+    🌱 I used to study at: East Asia University of Technology
+    💬 Ask me about: Web Development
+    📫 How to reach me: <a href="mailto:anhnh.works@gmail.com">anhnh.works@gmail.com</a>
     <!--## 📫 Connect With Me 📫-->
     <div>
         <a href="https://www.facebook.com/anhtech21" alt="" target="_blank"><img width="40" height="40" src="https://img.icons8.com/color/48/facebook-new.png" alt="facebook-new"></a>&nbsp;
@@ -39,7 +39,12 @@
 <table align="center">
     <tr align="center">
         <td align="center">
-            <img align="center" src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,js,php,java,php,py,swift,ts,git,idea,jquery,kubernetes,laravel,md,mongodb,mysql,react,redux,nestjs,nodejs,vue,npm,nuxtjs,ps,postman,pug,styledcomponents,webpack,wordpress,yarn">
+            <img src="https://skillicons.dev/icons?i=html,css,js,java,php,py,md,ts,swift" alt="programing-language">
+        </td>
+    </tr>
+    <tr align="center">
+        <td align="center">
+            <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,sass,jquery,angular,react,vue,materialui,styledcomponents,redux,nodejs,express,nestjs,threejs,wordpress,laravel,spring,hibernate,npm,svelte,nuxtjs,nextjs,yarn,gradle,webpack" alt="programing-language">
         </td>
     </tr>
 </table>
