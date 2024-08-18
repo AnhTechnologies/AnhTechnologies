@@ -16,7 +16,7 @@
 
 <!------------------------------------------------------------------------------------------->
 <!--## 🚀 About Me 🚀-->
-<h3 align="center">🚀 About Me 🚀</h3>
+<h3 align="center">🚀 ABOUT ME 🚀</h3>
 
 <img src="https://img.shields.io/badge/🚀ABOUT-ME🚀-%23ED8B00.svg?logoColor=white&style=for-the-badge" alt="Java Badge">
 
@@ -37,7 +37,7 @@
 <hr>
 <!------------------------------------------------------------------------------------------->
 <!--## 🛠️ My Skills 🛠️-->
-<h3 align="center">🛠️ My Skills 🛠️</h3>
+<h3 align="center">🛠️ TECHNICAL STACK 🛠️</h3>
     <table style="width:100%;" align="center">
         <tbody>
             <!-- Programming Languages -->
@@ -177,7 +177,7 @@
 
 <!------------------------------------------------------------------------------------------->
 <!--## 🔥 GitHub Stats 🔥-->
-<h3 align="center">🔥 GitHub Stats 🔥</h3>
+<h3 align="center">🔥 GITHUB STATS 🔥</h3>
 <table style="width:100%;">
           <tr>
               <td width="50%" align="center">
@@ -195,7 +195,7 @@
 
 <!------------------------------------------------------------------------------------------->
 <!--## 📫 Connect With Me 📫-->
-<h3 align="center">📫 Connect With Me 📫</h3>
+<h3 align="center">📫 CONNECT WITH ME 📫</h3>
 <div align="center">
     <a href="https://www.facebook.com/anhtech21" alt=""><img src="https://img.shields.io/badge/Facebook-0866FF?logo=facebook&logoColor=fff&style=flat" alt="Facebook Badge"></a>
     <a href="https://www.linkedin.com/in/AnhTechnologies"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat" alt="LinkedIn Badge"></a>
