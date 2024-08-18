@@ -38,22 +38,22 @@
 <h3 align="center">🛠️ TECHNICAL STACK 🛠️</h3>
 <!-- [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev) -->
 <table align="center" style="width:100%;">
-    <tr align="center">
+    <tr>
         <td align="center">
             <img src="https://skillicons.dev/icons?i=html,css,js,java,php,py,md,ts,swift" alt="programing-language">
         </td>
     </tr>
-    <tr align="center">
+    <tr>
         <td align="center">
             <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,sass,jquery,angular,react,vue,solidjs,materialui,styledcomponents,redux,nodejs,express,nestjs,threejs,wordpress,laravel,spring,hibernate,npm,svelte,nuxtjs,nextjs,yarn,gradle,webpack,maven" alt="frameworks-libraries">
         </td>
     </tr>
-    <tr align="center">
+    <tr>
         <td align="center">
             <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,postgres,sequelize" alt="database">
         </td>
     </tr>
-    <tr align="center">
+    <tr>
         <td align="center">
             <img src="https://skillicons.dev/icons?i=git,docker,vscode,phpstorm,idea,postman,notion" alt="tools">
         </td>
