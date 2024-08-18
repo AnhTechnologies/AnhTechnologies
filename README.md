@@ -1,6 +1,4 @@
 <!--# Hi there, I'm Nguyen Hoang Anh! 👋 ![Vietnam](https://img.shields.io/badge/-Vietnam-DA251D?style=flat&logo=vietnam&logoColor=white)-->
-<img align="center" width="30" height="30" src="https://skillicons.dev/icons?i=html,css,js,java,php,py,ts,swift&perline=8">
-
 <!------------------------------------------------------------------------------------------->
 <div align="center">
     <p>
