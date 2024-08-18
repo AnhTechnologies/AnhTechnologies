@@ -36,7 +36,7 @@
 <!--## 🛠️ My Skills 🛠️-->
 <h3 align="center">🛠️ TECHNICAL STACK 🛠️</h3>
 <!-- [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev) -->
-<table align="center">
+<table align="center" style="width:100%;">
     <tr align="center">
         <td align="center">
             <img src="https://skillicons.dev/icons?i=html,css,js,java,php,py,md,ts,swift" alt="programing-language">
