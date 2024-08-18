@@ -1,9 +1,11 @@
 <!--# Hi there, I'm Nguyen Hoang Anh! 👋 ![Vietnam](https://img.shields.io/badge/-Vietnam-DA251D?style=flat&logo=vietnam&logoColor=white)-->
+<img align="center" width="30" height="30" src="https://skillicons.dev/icons?i=html,css,js,java,php,py,ts,swift&perline=8">
+
 <!------------------------------------------------------------------------------------------->
 <div align="center">
     <p>
         <!-- Có thể thay bằng các ảnh gifs -->
-       <img src="https://xdcs.cdnchinhphu.vn/446259493575335936/2023/3/10/dangky-1678414634214362948075.jpg" align="center" width="5%" height="5%">
+       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGHNvA8j26-L1GlzL0p1VUtbjuJEVPMVw_bg&s" align="center" width="5%" height="5%">
        <img src="https://images.baodantoc.vn/uploads/2022/Th%C3%A1ng%208/Ng%C3%A0y_31/Nga/quockyvietnam-copy-7814.jpg" align="center" width="5%" height="5%">
     </p>
 </div> 
@@ -17,8 +19,6 @@
 <!------------------------------------------------------------------------------------------->
 <!--## 🚀 About Me 🚀-->
 <h3 align="center">🚀 ABOUT ME 🚀</h3>
-
-<img src="https://img.shields.io/badge/🚀ABOUT-ME🚀-%23ED8B00.svg?logoColor=white&style=for-the-badge" alt="Java Badge">
 
 <table style="width:100%;" align="center">
     <p align="center">I'm a software developer with a passion for building web applications and learning new technologies.</p>
@@ -35,6 +35,24 @@
     </tr>
 </table>
 <hr>
+
+<!------------------------------------------------------------------------------------------->
+<!--## 📫 Connect With Me 📫-->
+<h3 align="center">📫 CONNECT WITH ME 📫</h3>
+<div align="center">
+    <!--
+    <a href="https://www.facebook.com/anhtech21" alt=""><img src="https://img.shields.io/badge/Facebook-0866FF?logo=facebook&logoColor=fff&style=flat" alt="Facebook Badge"></a>
+    <a href="https://www.linkedin.com/in/AnhTechnologies"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat" alt="LinkedIn Badge"></a>
+    <a href="mailto:anhnh.works.com"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat" alt="Gmail Badge"></a> 
+    <a href="https://zalo.me/84779363295"><img src="https://img.shields.io/badge/Zalo-0068FF?logo=zalo&logoColor=fff&style=flat" alt="Zalo Badge"></a>
+    -->
+    <a href="https://www.facebook.com/anhtech21" alt=""><img width="30" height="30" src="https://img.icons8.com/color/48/facebook-new.png" alt="facebook-new"></a>
+    <a href="https://www.linkedin.com/in/AnhTechnologies"><img width="30" height="30" src="https://cdn-icons-png.flaticon.com/128/145/145807.png" alt="linkedin"></a>
+    <a href="mailto:anhnh.works.com"><img width="30" height="30" src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail-new"/></a> 
+    <a href="https://zalo.me/84779363295"><img width="30" height="30" src="https://img.icons8.com/color/48/zalo.png" alt="zalo"></a>
+</div>
+<hr>
+
 <!------------------------------------------------------------------------------------------->
 <!--## 🛠️ My Skills 🛠️-->
 <h3 align="center">🛠️ TECHNICAL STACK 🛠️</h3>
@@ -191,17 +209,6 @@
               </td>
           </tr>
 </table>
-<hr>
-
-<!------------------------------------------------------------------------------------------->
-<!--## 📫 Connect With Me 📫-->
-<h3 align="center">📫 CONNECT WITH ME 📫</h3>
-<div align="center">
-    <a href="https://www.facebook.com/anhtech21" alt=""><img src="https://img.shields.io/badge/Facebook-0866FF?logo=facebook&logoColor=fff&style=flat" alt="Facebook Badge"></a>
-    <a href="https://www.linkedin.com/in/AnhTechnologies"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat" alt="LinkedIn Badge"></a>
-    <a href="mailto:anhnh.works.com"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat" alt="Gmail Badge"></a> 
-    <a href="https://zalo.me/84779363295"><img src="https://img.shields.io/badge/Zalo-0068FF?logo=zalo&logoColor=fff&style=flat" alt="Zalo Badge"></a>
-</div>
 
 <!-- 
 Dưới đây là một số số thành phần trên của Vue.js badge:
