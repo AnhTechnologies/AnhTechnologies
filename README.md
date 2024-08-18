@@ -80,6 +80,12 @@
                   <image src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="Anh-Technologies" width="100%"></image>
               </td>
           </tr>
+    <tr align="center">
+        <td colspan="2" align="center">
+            <img src="https://github-profile-trophy.vercel.app/?username=AnhTechnologies" alt="">
+        </td>
+    </tr>
 </table>
+
 
 
