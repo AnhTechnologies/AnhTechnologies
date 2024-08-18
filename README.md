@@ -123,11 +123,12 @@
                     <img width="30" height="30" src="https://img.icons8.com/fluency/48/laravel.png" alt="laravel"/>
                     <img width="30" height="30" src="https://img.icons8.com/color/48/npm.png" alt="npm"/>
                     <img width="30" height="30" src="https://img.icons8.com/color/48/nestjs.png" alt="nestjs"/>
-                    <img width="30" height="30"" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>
+                    <img width="30" height="30" src="https://img.icons8.com/doodle/48/svetle.png" alt="svetle"/>
+                    <img width="30" height="30" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>
                     <img width="30" height="30" src="https://img.icons8.com/fluency-systems-regular/48/nextjs.png" alt="nextjs"/>
                     <img width="30" height="30" src="https://img.icons8.com/color/48/spring-logo.png" alt="spring-logo"/>
-                    <img width="30" height="30" src="https://img.icons8.com/officel/16/spring-logo.png" alt="spring-logo"/>
                     <img width="30" height="30" src="https://img.icons8.com/color/48/webpack.png" alt="webpack"/>
+                    <img width="30" height="30" src="https://socket.io/images/logo-dark.svg" alt="socket.io"/>
                 </td>
             </tr>
             <tr>
