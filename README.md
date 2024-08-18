@@ -105,11 +105,18 @@
      	    </tr>
             <tr>
                 <td align="center">
+                    <!--
                     <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=plastic" alt="MySQL Badge">
                     <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=plastic" alt="MongoDB Badge">
                     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=plastic" alt="PostgreSQL Badge">
                     <img src="https://img.shields.io/badge/redis-%23DD0031.svg?logo=redis&logoColor=white&style=plastic" alt="Redis Badge">
                     <img src="https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=fff&style=plastic" alt="Sequelize Badge">
+                    -->
+                    <img width="30" height="30" src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="microsoft-sql-server"/>
+                    <img width="30" height="30" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"/>
+                    <img width="30" height="30" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/>
+                    <img width="30" height="30" src="https://img.icons8.com/color/48/mongo-db.png" alt="mongo-db"/>
+                    <img width="30" height="30" src="https://img.icons8.com/color/48/redis--v1.png" alt="redis--v1"/>
                 </td>
             </tr>
             <tr>
