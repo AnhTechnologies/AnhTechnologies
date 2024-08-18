@@ -46,6 +46,7 @@
      	    </tr>
             <tr>
                 <td align="center">
+                    <!-- Sử dụng các Badge -->
                     <!--
                     <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=plastic" alt="HTML5 Badge">
                     <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=plastic" alt="CSS3 Badge">
@@ -57,14 +58,16 @@
                     <img src="https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=fff&style=plastic" alt="Swift Badge">
                     <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=plastic" alt="TypeScript Badge">
                     -->
+                    <!-- Sử dụng các icon hình ảnh -->
                     <img width="30" height="30" src="https://img.icons8.com/fluency/48/html-5.png" alt="html-5"/>
                     <img width="30" height="30" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/>
                     <img width="30" height="30" src="https://img.icons8.com/fluency/48/javascript.png" alt="javascript"/>
                     <img width="30" height="30" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
-                    <img width="30" height="30" src="https://cdn-icons-png.flaticon.com/128/5968/5968332.png" alt="Swift Badge">
+                    <img width="30" height="30" src="https://cdn-icons-png.flaticon.com/128/5968/5968332.png" alt="php">
                     <img width="30" height="30" src="https://img.icons8.com/fluency/48/python.png" alt="python"/>
-                    <img width="30" height="30" src="https://img.icons8.com/ios/50/markdown--v2.png" alt="markdown--v2"/>
+                    <img width="30" height="30" src="https://img.icons8.com/ios/50/markdown--v1.png" alt="markdown--v1"/>
                     <img width="30" height="30" src="https://img.icons8.com/fluency/48/typescript--v1.png" alt="typescript--v1"/>
+                    <img width="30" height="30" src="https://img.icons8.com/color/48/swift.png" alt="swift"/>
                 </td>
             </tr>
             <tr>
