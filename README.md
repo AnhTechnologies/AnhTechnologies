@@ -37,7 +37,7 @@
 <!--## 🛠️ My Skills 🛠️-->
 <h3 align="center">🛠️ TECHNICAL STACK 🛠️</h3>
 <!-- [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev) -->
-<table align="center" style="width:100%;">
+<!-- <table align="center" style="width:100%;">
     <tr>
         <td align="center">
             <img src="https://skillicons.dev/icons?i=html,css,js,java,php,py,md,ts,swift" alt="programing-language">
@@ -61,6 +61,14 @@
     <tr align="center">
         <td align="center">
             <img src="https://skillicons.dev/icons?i=ps,figma" alt="design">
+        </td>
+    </tr>
+</table> -->
+
+<table align="center" style="width:100%;">
+    <tr>
+        <td align="center">
+            <img src="https://skillicons.dev/icons?i=html,css,js,java,php,py,md,ts,swift,bootstrap,tailwind,sass,jquery,angular,react,vue,solidjs,materialui,styledcomponents,redux,nodejs,express,nestjs,threejs,wordpress,laravel,spring,hibernate,npm,svelte,nuxtjs,nextjs,yarn,gradle,webpack,maven,mysql,mongodb,redis,postgres,sequelize,git,docker,vscode,phpstorm,idea,postman,notion,ps,figma" alt="programing-language">
         </td>
     </tr>
 </table>
