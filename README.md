@@ -65,10 +65,10 @@
     </tr>
 </table> -->
 
-<table align="center" style="width:100%;">
-    <tr>
+<table align="center" style="width:100%;" width="100%">
+    <tr align="center">
         <td align="center">
-            <img src="https://skillicons.dev/icons?i=html,css,js,java,php,py,md,ts,swift,bootstrap,tailwind,sass,jquery,angular,react,vue,solidjs,materialui,styledcomponents,redux,nodejs,express,nestjs,threejs,wordpress,laravel,spring,hibernate,npm,svelte,nuxtjs,nextjs,yarn,gradle,webpack,maven,mysql,mongodb,redis,postgres,sequelize,git,docker,vscode,phpstorm,idea,postman,notion,ps,figma" alt="programing-language">
+            <img align="center" src="https://skillicons.dev/icons?i=html,css,js,java,php,py,md,ts,swift,bootstrap,tailwind,sass,jquery,angular,react,vue,solidjs,materialui,styledcomponents,redux,nodejs,express,nestjs,threejs,wordpress,laravel,spring,hibernate,npm,svelte,nuxtjs,nextjs,yarn,gradle,webpack,maven,mysql,mongodb,redis,postgres,sequelize,git,docker,vscode,phpstorm,idea,postman,notion,ps,figma" alt="programing-language">
         </td>
     </tr>
 </table>
