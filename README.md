@@ -16,14 +16,17 @@
 
 <!------------------------------------------------------------------------------------------->
 <!--## 🚀 About Me 🚀-->
-<h3 align="center">🚀 ABOUT ME 🚀</h3>
+<h4 align="center">🚀 ABOUT ME 🚀</h4>
 <div align="center">
-    <p align="center">I'm a software developer with a passion for building web applications and learning new technologies.</p>
+    <span align="center">I'm a software developer with a passion for building web applications and learning new technologies.</span>
+    <br>
     <!--
     <p>🔭 I’m currently working on: Website For Managing And Trading Jewelry</p>
     <p>🌱 I used to study at: East Asia University of Technology</p>
     <p>📫 How to reach me: <a href="mailto:anhnh.works@gmail.com">anhnh.works@gmail.com</a></p> -->
-    <p>💬 Ask me about: Web Development</p>
+    <span>💬 Ask me about: Web Development</span>
+    <br>
+    <br>
     <!--## 📫 Connect With Me 📫-->
     <div>
         <!--
