@@ -19,8 +19,9 @@
 <h3 align="center">🚀 ABOUT ME 🚀</h3>
 <div align="center">
     <p align="center">I'm a software developer with a passion for building web applications and learning new technologies.</p>
+    <!--
     <p>🔭 I’m currently working on: Website For Managing And Trading Jewelry</p>
-    <p>🌱 I used to study at: East Asia University of Technology</p>
+    <p>🌱 I used to study at: East Asia University of Technology</p> -->
     <p>💬 Ask me about: Web Development</p>
     <p>📫 How to reach me: <a href="mailto:anhnh.works@gmail.com">anhnh.works@gmail.com</a></p>
     <!--## 📫 Connect With Me 📫-->
