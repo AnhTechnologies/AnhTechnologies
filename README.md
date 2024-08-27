@@ -44,7 +44,7 @@
 
 <!------------------------------------------------------------------------------------------->
 <!--## 🛠️ My Skills 🛠️-->
-<h3 align="center">🛠️ TECHNICAL STACK 🛠️</h3>
+<h4 align="center">🛠️ TECHNICAL STACK 🛠️</h4>
 <!-- [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev) -->
 <!-- <table align="center" style="width:100%;">
     <tr>
@@ -85,7 +85,7 @@
 
 <!------------------------------------------------------------------------------------------->
 <!--## 🔥 GitHub Stats 🔥-->
-<h3 align="center">🔥 GITHUB STATS 🔥</h3>
+<h4 align="center">🔥 GITHUB STATS 🔥</h4>
 <table align="center" style="width:100%;">
     <tr>
         <td width="50%" align="center">
