@@ -38,6 +38,7 @@
         <a href="https://www.linkedin.com/in/AnhTechnologies" alt="" target="_blank"><img width="50" height="50" src="https://img.icons8.com/bubbles/50/linkedin.png" alt="linkedin"/></a>&nbsp;
         <a href="mailto:anhnh.works.com" alt="" target="_blank"><img width="50" height="50" src="https://img.icons8.com/bubbles/50/gmail-new.png" alt="gmail-new"/></a>&nbsp;
         <a href="https://zalo.me/84779363295" alt="" target="_blank"><img width="50" height="50" src="https://img.icons8.com/bubbles/50/zalo.png" alt="zalo"/></a>
+        <a href="tel:+84779363295" alt="" target="_blank"><img width="50" height="50" src="https://img.icons8.com/bubbles/50/phone--v2.png" alt="phone--v2"/></a>
     </div>
 </div>
 <hr>
