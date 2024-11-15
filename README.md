@@ -24,7 +24,7 @@
     <p>🔭 I’m currently working on: Website For Managing And Trading Jewelry</p>
     <p>🌱 I used to study at: East Asia University of Technology</p>
     <p>📫 How to reach me: <a href="mailto:anhnh.works@gmail.com">anhnh.works@gmail.com</a></p> -->
-    <span>💬 Ask me about: Web Development</span>
+    <span>💬 Ask me about: Web/App Development</span>
     <br>
     <br>
     <!--## 📫 Connect With Me 📫-->
