@@ -3,7 +3,7 @@
 <div align="center">
     <p>
         <!-- Có thể thay bằng các ảnh gifs -->
-       <img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGHNvA8j26-L1GlzL0p1VUtbjuJEVPMVw_bg&s](https://avatars.githubusercontent.com/u/177357945?v=4)" align="center" width="7%" height="5%">
+       <img src="[[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGHNvA8j26-L1GlzL0p1VUtbjuJEVPMVw_bg&s](https://avatars.githubusercontent.com/u/177357945?v=4)](https://lh3.googleusercontent.com/a/ACg8ocJINPNF-IWr3J4z7TbCj7AQQoxC23mApYvy3uu7F_Nc2Ryo849O=s360-c-no)" align="center" width="7%" height="5%">
     </p>
     <p>
         <!-- Có thể thay bằng các ảnh gifs -->
